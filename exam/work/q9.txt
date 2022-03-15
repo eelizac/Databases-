@@ -1,0 +1,53 @@
+# COMP3311 21T3 Final Exam Q9
+# Flight booking triggers
+
+(A) 
+* TO ADD A BOOKING: Checks if a new booking can be added prior to insert - by checking that 
+    the flight number exists within the 'Flights' database. 
+    -- Also checks that there are seats available by checking the flight is not empty 
+* TO DELETE A BOOKING: Checks if an old booking can be deleted by checking that the flight 
+    number exists within the Flight database. 
+
+(B)
+* TO ADD A BOOKING: 
+   - Check if departure date is not passed 
+   - Check if the seat number is available 
+
+
+* TO DELETE A BOOKING: 
+   - Check if passenger has a booking for the flight no and seat no 
+   - Check if departure date is not passed 
+   - Valid seat number 
+
+
+(C)
+* Will pass the pre_booking_check() trigger 
+* fno = new.flight_no = QF01 (as TG_OP = 'INSERT')
+* flight = tuple with QF01 
+* flight.nbooked != flight.nseats as the seat is empty 
+* returns new 
+* inserts into Bookings 
+* Will pass into the post_booking_update() trigger 
+* updates Flights database where nbooked = nbooked + 1 for QF01
+
+
+(D)
+* Will pass the pre_booking_check() trigger 
+* fno = new.flight_no = QF02 (as TG_OP = 'INSERT')
+* flight = tuple with QF02
+* flight.nbooked == flight.nseats as flight is full 
+* Raises an exception 'Booking Error'
+* Will not be inserted into the Bookings database 
+
+
+(E)
+* Will pass the pre_booking_check() trigger 
+* fno = old.flight_no = QF03 (as TG_OP != 'DELETE')
+* flight = tuple with QF03 as this flight exists 
+* Returns old 
+* Delete from the bookings database 
+* Passes into the post_booking_update() trigger 
+* Updates Flights database so that nbooked = nbooked - 1 for QF03
+
+
+

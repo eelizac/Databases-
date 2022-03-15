@@ -1,0 +1,26 @@
+# COMP3311 21T3 Final Exam Q10
+# BCNF normalization
+
+(A)
+
+A -> BC
+D -> EF
+
+
+
+(B)
+Initial key is AD. 
+By taking A -> BC, this is not BCNF as it is missing the full key. 
+
+R0 = ADEF which has D -> EF which is BCNF as key is AD 
+
+This gives 2 relations: ABC and ADEF through BCNF decomposition. 
+
+(C)
+ABC --> A table that details student information - ID, name, topic 
+ADEF --> A table that details Specialty/supervisor information 
+ 
+
+
+
+

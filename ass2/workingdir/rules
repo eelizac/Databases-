@@ -1,0 +1,146 @@
+#!/usr/bin/python3
+# COMP3311 21T3 Ass2 ... print list of rules for a program or stream
+
+import sys
+import psycopg2
+import re
+from helpers import getProgram, getStream, split_altern, print_courses
+
+# define any local helper functions here
+# ...
+
+### set up some globals
+
+usage = f"Usage: {sys.argv[0]} (ProgramCode|StreamCode)"
+db = None
+
+### process command-line args
+
+argc = len(sys.argv)
+if argc < 2:
+  print(usage)
+  exit(1)
+code = sys.argv[1]
+if len(code) == 4:
+  codeOf = "program"
+elif len(code) == 6:
+  codeOf = "stream"
+
+query_program = "select * from program_school_view where id = %s"
+query_program1 = "select * from rules_program_view where program = %s"
+query_program2 = "select * from academic_object_groups where id = %s"
+query_courses = "select name from stream_subject_view where code = %s"
+query_stream = "select * from streams_info_view where code = %s"
+try:
+  db = psycopg2.connect("dbname=mymyunsw")
+  if codeOf == "program":
+    progInfo = getProgram(db,code)
+    if not progInfo:
+      print(f"Invalid program code {code}")
+      exit()
+    #print(progInfo)  #debug
+    # List the rules for Program
+
+    # ... add your code here ...
+    # program 
+    cur = db.cursor()
+    cur.execute(query_program, [code])
+    program_info = cur.fetchone()
+    length = program_info[3] / 12
+    print(f"{code} {program_info[1]}, {program_info[2]} UOC, {length} years")
+
+    print(f"- offered by {program_info[4]}")
+    print("Academic Requirements:")
+    cur.execute(query_program1, [code])
+    results = cur.fetchall()
+    for result in results:
+      cur.execute(query_program2, [result[7]])
+      streams = cur.fetchone()  
+      stream_list = streams[4].split(",")      
+
+      if result[3] == "General Education": 
+        print(f"{result[5]} UOC of General Education")
+      elif result[5] == result[6] and result[5] != None: 
+        print(f"{result[5]} stream(s) from {result[3]}")
+      elif result[5] == None and result[6] == None: 
+        if len(stream_list) == 1: 
+          print(f"{result[3]}")
+        else:
+          print(f"all courses from {result[3]}")
+      elif result[5] == 12 and result[6] == 12: 
+        print(f"12 UOC from {result[3]}")
+    
+
+      for x in stream_list: 
+        if x[0] == "{": # alternatives
+          altern = split_altern(x)
+          for course in altern:
+            cur.execute(query_courses, [course])
+            name = cur.fetchone()
+            if name == None: 
+              print(f"- {course} ???") if course == altern[0] else print(f"  or {course} ???") 
+            else: 
+              print(f"- {course} {name[0]}") if course == altern[0] else print(f"  or {course} {name[0]}") 
+        elif x[5] == "#": # geneds or free electives # fix this 
+          continue 
+        else:   
+          cur.execute(query_courses, [x])
+          name = cur.fetchone()          
+          print(f"- {x} ???") if name == None else print(f"- {x} {name[0]}")
+  
+
+  elif codeOf == "stream":
+    strmInfo = getStream(db,code)
+    if not strmInfo:
+      print(f"Invalid stream code {code}")
+      exit()
+    #print(strmInfo)  #debug
+    # List the rules for Stream
+    # ... add your code here ...
+
+    cur = db.cursor()
+    cur.execute(query_stream, [code])
+    results = cur.fetchall()
+    print(f"{code} {results[0][1]}")
+    print(f"- offered by {results[0][3]}")
+    print("Academic Requirements:")
+    for result in results: 
+      #print(result)
+      if result[5] == "CC": 
+        # core courses 
+        print(f"{result[4]}")
+        course_list = result[8].split(",")
+        print_courses(cur, course_list)
+  
+      elif result[5] == "PE": 
+        # prescribed electives 
+        if result[6] == result[7]: 
+          print(f"{result[6]} UOC courses from {result[4]}")
+          course_list = result[8].split(",")
+          print_courses(cur, course_list)
+        elif result[7] != None and result[6] != None: 
+          print(f"between {result[6]} and {result[7]} UOC courses from {result[4]}")
+          course_list = result[8].split(",")
+          print_courses(cur, course_list)
+        elif result[7] != None and result[6] == None: 
+          print(f"up to {result[7]} UOC courses from {result[4]}")
+          print(f"- courses matching {result[8]}")
+        else: #result[7] == None
+          print(f"at least {result[6]} UOC courses from {result[4]}")
+          print(f"- courses matching {result[8]}")      
+      elif result[5] == "FE": 
+        print(f"at least {result[6]} UOC of Free Electives")
+      else:
+        print(f"between {result[6]} and {result[7]} UOC courses from {result[4]}")
+        
+        course_list = result[8].split(",")
+        for x in course_list: 
+          cur.execute(query_courses, [x])
+          print_courses(cur, course_list)
+          
+      
+except Exception as err:
+  print(err)
+finally:
+  if db:
+    db.close()

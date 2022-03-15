@@ -1,0 +1,56 @@
+  id  | utype |                      name                      |                         longname                         |  unswid  
+------+-------+------------------------------------------------+----------------------------------------------------------+----------
+    0 |     0 | UNSW                                           | The University of New South Wales                        | UNSWA
+    3 |     1 | Administrative Courses                         | Administrative Courses                                   | ADMIN
+   31 |     1 | Faculty of Arts and Social Sciences            | Faculty of Arts and Social Sciences                      | ARTSC
+   64 |     1 | Faculty of Built Environment                   | Faculty of Built Environment                             | BLTEN
+ 1626 |     1 | DVC(A)                                         | DVC(A) Board of Studies                                  | BOS
+   82 |     1 | College of Fine Arts (COFA)                    | College of Fine Arts (COFA)                              | COFA
+ 1278 |     1 | Australian School of Business                  | Australian School of Business                            | COMM
+  112 |     1 | Faculty of Engineering                         | Faculty of Engineering                                   | ENG
+  164 |     1 | Faculty of Law                                 | Faculty of Law                                           | LAW
+  183 |     1 | Faculty of Medicine                            | Faculty of Medicine                                      | MED
+   52 |     1 | Faculty of Science                             | Faculty of Science                                       | SCI
+    4 |     2 | Accounting                                     | School of Accounting                                     | ACCT
+    2 |     2 | Administrative Courses                         | Administrative Courses                                   | ADMIN
+    8 |     2 | Politics and International Relations           | School of Politics and International Relations           | POLS
+   11 |     2 | Built Envrionment                              | School of Built Environment                              | BLTENS
+ 1140 |     2 | Medical Sciences                               | School of Medical Sciences                               | APPP
+  613 |     2 | Aviation                                       | School of Aviation                                       | AVIA
+   17 |     2 | Biotechnology and Biomolecular Sciences        | School of Biotechnology and Biomolecular Sciences        | BABS
+    9 |     2 | Banking and Finance                            | School of Banking and Finance                            | BANKFIN
+   53 |     2 | Biological, Earth and Environmental Sciences   | School of Biological, Earth and Environmental Sciences   | BEES
+   69 |     2 | Chemical Sciences and Engineering              | School of Chemical Engineering                           | CEIC
+   71 |     2 | Chemistry                                      | School of Chemistry                                      | CHEM
+   97 |     2 | Art and Design                                 | School of Art and Design                                 | COFAS
+   89 |     2 | Computer Science and Engineering               | School of Computer Science and Engineering               | COMPSC
+   75 |     2 | Civil and Environmental Engineering            | School of Civil and Environmental Engineering            | CVEN
+  102 |     2 | Economics                                      | School of Economics                                      | ECON
+  103 |     2 | Education                                      | School of Education                                      | EDUC
+  106 |     2 | Electrical Engineering & Telecommunications    | School of Electrical Engineering & Telecommunications    | ELEC
+  113 |     2 | Arts and Media                                 | School of the Arts and Media                             | ENGL
+  136 |     2 | Biomedical Engineering                         | Graduate School of Biomedical Engineering                | GBIOM
+  238 |     2 | Humanities & Languages                         | School of Humanities & Languages                         | HUMSLANG
+  165 |     2 | School of Law                                  | School of Law                                            | LAWS
+  174 |     2 | Marketing                                      | School of Marketing                                      | MARKET
+  177 |     2 | Mathematics & Statistics                       | School of Mathematics & Statistics                       | MATH
+  176 |     2 | Materials Science & Engineering                | School of Materials Science & Engineering                | MATSCEN
+  180 |     2 | Mechanical and Manufacturing Engineering       | School of Mechanical and Manufacturing Engineering       | MECH
+  195 |     2 | Minerals and Energy Resource Engineering       | School of Mineral and Energy Resource Engineering        | MERE
+  147 |     2 | Management                                     | School of Management                                     | MGMT
+ 1134 |     2 | Public Health & Community Medicine             | School of Public Health & Community Medicine             | PHCM
+  480 |     2 | Photovoltaic and Renewable Engineering         | School of Photovoltaic and Renewable Engineering         | PHOTOENG
+  217 |     2 | Physics                                        | School of Physics                                        | PHYS
+ 1630 |     2 | PPPO                                           | Professional Practice Program Office                     | PPPO
+  229 |     2 | Psychology                                     | School of Psychology                                     | PSYC
+  703 |     2 | Risk and Actuarial Studies                     | School of Risk and Actuarial Studies                     | RISKACTL
+  152 |     2 | Information Systems, Technology and Management | School of Information Systems, Technology and Management | SISTM
+ 1613 |     2 | Taxation and Business Law                      | Australian School of Taxation and Business Law           | TBL
+  412 |     5 | The Learning Centre                            | The Learning Centre                                      | LEARNCEN
+  146 |     6 | Industrial Design Program                      | Industrial Design Program                                | INDDESGN
+ 1416 |     6 | Nura Gili Indigenous Programs                  | Nura Gili Indigenous Programs                            | NURAGILI
+   65 |     2 | Planning and Urban Design                      | School of Planning and Urban Design                      | PLANUDES
+   66 |     2 | Architecture                                   | School of Architecture                                   | ARCHITEC
+   20 |     2 | AGSM                                           | Australian Graduate School of Management                 | AGSM
+(52 rows)
+

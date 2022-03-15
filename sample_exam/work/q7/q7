@@ -1,0 +1,38 @@
+# COMP3311 20T2 Final Exam
+# Q7: print a specified player's career performance
+
+import sys
+import psycopg2
+
+# ... put any helper functions here ...
+
+db = None
+cur = None
+
+if len(sys.argv) < 2:
+   print(f"Usage: {sys.argv[0]} PlayerName")
+   exit(1)
+player = sys.argv[1]
+query = "select * from goal_player_count where name = %s"
+try:
+   db = psycopg2.connect("dbname=footy")
+   # ... your code goes here ...
+   cur = db.cursor()
+
+   cur.execute(query_country, [player])
+   results = cur.fetchall()
+   total_goals = 0
+   for result in results: 
+      if result[3] > 0: # for at least one goal 
+         print(f"played in {result[1]} on {result[2]} and scored {result[3]} goal")
+         total_goals = total_goals + result[3]
+   
+   print(f"Summary: played for {team}")
+except psycopg2.Error as err:
+	print("DB error: ", err)
+finally:
+   if cur:
+       cur.close()
+   if db:
+      db.close()
+       

@@ -1,0 +1,668 @@
+                 brewery                 | brewery_id | style 
+-----------------------------------------+------------+-------
+ Nogne 0 (Hansa Borg)                    |        150 |   235
+ Heineken Brewing                        |        102 |   236
+ Brouwerij Kees!                         |        115 |   237
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   238
+ Coopers Brewery                         |         56 |   239
+ Hop Nation Brewing Co                   |        111 |   240
+ Sierra Nevada Brewing Company           |        185 |   240
+ Dainton Brewing                         |         59 |   241
+ Mountain Culture Beer Co                |        141 |   242
+ Deeds Brewing                           |        172 |   243
+ Deeds Brewing                           |        172 |   244
+ Future Mountain Brewing and Blending    |         84 |   245
+ Brewdog                                 |         36 |   237
+ Brewdog                                 |         36 |   246
+ Brauerei Heller                         |        103 |   247
+ Brauerei Heller                         |        103 |   247
+ Badlands Brewery                        |         15 |   248
+ Bacchus Brewing Company                 |         14 |   249
+ Garage Project                          |         85 |   248
+ Modern Times Beer                       |        133 |   248
+ Rodenbach Brewery                       |        177 |   250
+ Revision Brewing Company                |        173 |   238
+ Smoge City Brewing Co                   |        190 |   240
+ Offshoot Beer                           |        154 |   240
+ Exit Brewing                            |         74 |   251
+ Gipsy Hill Brewing                      |         87 |   240
+ Dainton Brewing                         |         59 |   238
+ Murrays Brewing Co                      |        145 |   237
+ AleSmith Brewing Co                     |          7 |   252
+ High Water Brewing Inc                  |        106 |   237
+ Hawkers Beer                            |        100 |   243
+ Garage Project                          |         85 |   248
+ Trillium Brewing Company                |        206 |   248
+ Stone Brewing                           |        194 |   253
+ Frenchies Bistro and Brewery            |         83 |   254
+ Parish Brewing Co                       |        163 |   252
+ Shark Island Brewing Company            |        184 |   255
+ Brick Lane Brewing                      |         37 |   238
+ Bright Brewery                          |         39 |   256
+ Surly Brewing Co.                       |        196 |   240
+ Mountain Culture Beer Co                |        141 |   257
+ The Bruery                              |         41 |   243
+ Hop Nation Brewing Co                   |        111 |   258
+ Bentspoke Brewing Co                    |         27 |   259
+ Hawkers Beer                            |        100 |   235
+ Revision Brewing Company                |        173 |   260
+ Mismatch Brewing Company                |        132 |   261
+ Mountain Culture Beer Co                |        141 |   248
+ Garage Project                          |         85 |   262
+ Sierra Nevada Brewing Company           |        185 |   263
+ Bench Brewing Coompany                  |         26 |   264
+ Bentspoke Brewing Co                    |         27 |   265
+ Malt Shovel Brewers                     |        130 |   265
+ Ekim Brewing Co                         |         69 |   266
+ Mountain Culture Beer Co                |        141 |   242
+ Kaiju! Beer                             |        113 |   267
+ Sierra Nevada Brewing Company           |        185 |   235
+ Bacchus Brewing Company                 |         14 |   268
+ Bentspoke Brewing Co                    |         27 |   269
+ Grifter Brewing Co                      |         94 |   257
+ Thunder Road Brewing Co                 |        199 |   248
+ Hope Brewery                            |        109 |   263
+ Matso's Broome Brewery                  |        129 |   270
+ Bacchus Brewing Company                 |         14 |   243
+ Brewdog                                 |         36 |   243
+ Dainton Brewing                         |         59 |   261
+ Black Hops                              |         32 |   243
+ Detour Beer Co                          |         65 |   259
+ Moon Dog Craft Brewery                  |        137 |   242
+ Bridge Road Brewers                     |         38 |   271
+ Garage Project                          |         85 |   236
+ Bacchus Brewing Company                 |         14 |   272
+ Urbanaut Brewing Co                     |        209 |   240
+ Ekim Brewing Co                         |         69 |   253
+ Ekim Brewing Co                         |         69 |   253
+ Deeds Brewing                           |        172 |   252
+ Bracket Brewing                         |         35 |   248
+ One Drop Brewing Co.                    |        157 |   236
+ Dainton Brewing                         |         59 |   249
+ Goose Island Beer Company               |         89 |   243
+ Bracket Brewing                         |         35 |   273
+ Little Bang Brewing Co                  |        125 |   274
+ Founders Brewing Company                |         80 |   274
+ Knee Deep Brewing Co                    |        118 |   240
+ Exit Brewing                            |         74 |   240
+ Rocky Ridge Brewing                     |        176 |   240
+ Mornington Peninsula Brewery            |        139 |   275
+ Colonial Brewing Company                |         55 |   276
+ Clown Shoes Beer                        |         53 |   240
+ Garage Project                          |         85 |   277
+ Hargreaves Hill Brewing Co              |         98 |   278
+ Sierra Nevada Brewing Company           |        185 |   240
+ High Water Brewing Inc                  |        106 |   249
+ Heretic Brewing                         |        104 |   279
+ Black Hops                              |         32 |   238
+ Carlton and United Breweries            |         48 |   280
+ Grupo Modelo - Corona                   |         57 |   236
+ Brouwerij Kees!                         |        115 |   243
+ Carlton and United Breweries            |         48 |   281
+ Pirate Life Brewing                     |        168 |   240
+ Wayward Brewing Co                      |        211 |   238
+ Sail and Anchor Brewing Co              |        179 |   235
+ Deeds Brewing                           |        172 |   282
+ Heretic Brewing                         |        104 |   283
+ Rogue Ales and Spirits                  |        178 |   249
+ Liberty Brewing Company                 |        123 |   278
+ Sparkke Change Beverage Company         |        204 |   284
+ Brewdog                                 |         36 |   285
+ Akasha Brewing Company                  |          6 |   238
+ Bentspoke Brewing Co                    |         27 |   271
+ Rogue Ales and Spirits                  |        178 |   286
+ Rogue Ales and Spirits                  |        178 |   271
+ Rogue Ales and Spirits                  |        178 |   287
+ White Bay Beer Co                       |        214 |   246
+ Deeds Brewing                           |        172 |   246
+ Mountain Culture Beer Co                |        141 |   242
+ One Drop Brewing Co.                    |        157 |   238
+ AleSmith Brewing Co                     |          7 |   238
+ Modern Times Beer                       |        133 |   238
+ Mother Earth Brew Company               |        140 |   238
+ Omnipollo                               |        156 |   252
+ Trillium Brewing Company                |        206 |   252
+ Bentspoke Brewing Co                    |         27 |   288
+ Clown Shoes Beer                        |         53 |   235
+ Deeds Brewing                           |        172 |   242
+ Sixpoint Brewery                        |        187 |   271
+ Young Master Hong Kong                  |        222 |   259
+ Sierra Nevada Brewing Company           |        185 |   240
+ Wicked Weed Brewing Co                  |        216 |   243
+ One Drop Brewing Co.                    |        157 |   289
+ Garage Project                          |         85 |   290
+ Ekim Brewing Co                         |         69 |   283
+ Deeds Brewing                           |        172 |   252
+ Outer Range Brewing Company             |        161 |   252
+ Hawkers Beer                            |        100 |   278
+ Deeds Brewing                           |        172 |   277
+ Sixpoint Brewery                        |        187 |   278
+ Frenchies Bistro and Brewery            |         83 |   271
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   259
+ Mountain Culture Beer Co                |        141 |   248
+ Brouwerij Huyghe                        |        112 |   291
+ Brouwerij Huyghe                        |        112 |   292
+ Brouwerij Huyghe                        |        112 |   293
+ Kaiju! Beer                             |        113 |   257
+ Grifter Brewing Co                      |         94 |   294
+ Urbanaut Brewing Co                     |        209 |   238
+ Bentspoke Brewing Co                    |         27 |   243
+ Bentspoke Brewing Co                    |         27 |   243
+ Bentspoke Brewing Co                    |         27 |   261
+ Bacchus Brewing Company                 |         14 |   258
+ Adroit Theory Brewing Company           |          4 |   261
+ Modern Times Beer                       |        133 |   252
+ Belching Beaver Brewery                 |         25 |   248
+ White Bay Beer Co                       |        214 |   243
+ Mountain Culture Beer Co                |        141 |   238
+ Woolshed Brewery                        |        221 |   278
+ Cellarmaker Brewing Co                  |         49 |   278
+ Akasha Brewing Company                  |          6 |   272
+ Mountain Culture Beer Co                |        141 |   272
+ One Drop Brewing Co.                    |        157 |   295
+ Hawkers Beer                            |        100 |   278
+ New England Brewing Co                  |        147 |   240
+ Boatrocker Brewers and Distillers       |         34 |   243
+ Moon Dog Craft Brewery                  |        137 |   296
+ To Ol                                   |        201 |   296
+ Modus Operandi Brewing Company          |        134 |   238
+ Hawkers Beer                            |        100 |   238
+ Garage Project                          |         85 |   297
+ Balter Brewing Co                       |         19 |   297
+ Chur (Behemoth) Brewing                 |         52 |   240
+ Sunday Road Brewing Co                  |        195 |   298
+ Deep Creek Brewing                      |         61 |   299
+ Bracket Brewing                         |         35 |   248
+ Sydney Brewery                          |        197 |   240
+ Garage Project                          |         85 |   238
+ Modern Times Beer                       |        133 |   238
+ Akasha Brewing Company                  |          6 |   240
+ Bacchus Brewing Company                 |         14 |   240
+ Van Dieman Brewing                      |        210 |   300
+ Mountain Culture Beer Co                |        141 |   301
+ Uitlje Brewing Compant                  |        207 |   252
+ Modern Times Beer                       |        133 |   238
+ Modern Times Beer                       |        133 |   260
+ Batch Brewing Co                        |         20 |   279
+ Brewdog                                 |         36 |   240
+ Moon Dog Craft Brewery                  |        137 |   253
+ Brothers Beer                           |         40 |   252
+ Big Shed Brewing                        |         29 |   243
+ Mountain Culture Beer Co                |        141 |   236
+ Monkish Brewing Company                 |        136 |   248
+ Garage Project                          |         85 |   248
+ AleSmith Brewing Co                     |          7 |   240
+ Lakewood Brewing Company                |        119 |   240
+ Adroit Theory Brewing Company           |          4 |   286
+ Evil Twin Brewing                       |         73 |   243
+ Evil Twin Brewing                       |         73 |   243
+ One Drop Brewing Co.                    |        157 |   284
+ The Grizzly Paw Brewing Company         |         95 |   240
+ Garage Project                          |         85 |   282
+ Moon Dog Craft Brewery                  |        137 |   240
+ Hope Brewery                            |        109 |   302
+ Hope Brewery                            |        109 |   303
+ Hope Brewery                            |        109 |   304
+ Hope Brewery                            |        109 |   243
+ Feral Brewing                           |         76 |   303
+ Sierra Nevada Brewing Company           |        185 |   271
+ Sierra Nevada Brewing Company           |        185 |   246
+ Wayward Brewing Co                      |        211 |   305
+ Bridge Road Brewers                     |         38 |   253
+ Big Shed Brewing                        |         29 |   242
+ Carbon Brews                            |         46 |   306
+ Parallel49 Brewing Company              |        162 |   240
+ Bay Rd Brewing                          |         21 |   238
+ Bentspoke Brewing Co                    |         27 |   307
+ Stockade Brew Co                        |        193 |   259
+ Sierra Nevada Brewing Company           |        185 |   240
+ Wildflower Brewing and Blending         |        217 |   308
+ Equilibrium Brewery                     |         72 |   248
+ Hawkers Beer                            |        100 |   309
+ Wicked Weed Brewing Co                  |        216 |   243
+ Garage Project                          |         85 |   248
+ Frenchies Bistro and Brewery            |         83 |   240
+ Slow Lane Brewing                       |        189 |   246
+ Hargreaves Hill Brewing Co              |         98 |   238
+ Dainton Brewing                         |         59 |   283
+ Beatnik Beer                            |         23 |   249
+ Anderson Valley Brewing Company         |         11 |   240
+ Surly Brewing Co.                       |        196 |   240
+ Bear Republic Brewing                   |         22 |   278
+ Odin Brewing Co                         |        153 |   240
+ Clown Shoes Beer                        |         53 |   240
+ West City Brewing                       |        213 |   310
+ Garage Project                          |         85 |   252
+ Trillium Brewing Company                |        206 |   252
+ Mountain Culture Beer Co                |        141 |   248
+ Frau Gruber                             |         82 |   240
+ Van Dieman Brewing                      |        210 |   243
+ Chur (Behemoth) Brewing                 |         52 |   252
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   311
+ Garage Project                          |         85 |   238
+ Colonial Brewing Company                |         55 |   278
+ Societe Brewing Company                 |        191 |   240
+ Epic Brewing Company                    |         71 |   257
+ Birra Peroni Industriale                |        166 |   312
+ Rodenbach Brewery                       |        177 |   284
+ Shark Island Brewing Company            |        184 |   313
+ Hop Nation Brewing Co                   |        111 |   240
+ Moon Dog Craft Brewery                  |        137 |   238
+ Brouwerij Van Steenberge                |        192 |   314
+ Brouwerij Van Steenberge                |        192 |   243
+ Kereru Brewing Co                       |        116 |   275
+ Heroes Beer Co                          |        105 |   315
+ Mountain Culture Beer Co                |        141 |   240
+ Clown Shoes Beer                        |         53 |   252
+ Bad Shepherd Brewing Co                 |         16 |   275
+ Rogue Ales and Spirits                  |        178 |   275
+ Balter Brewing Co                       |         19 |   238
+ Bracket Brewing                         |         35 |   248
+ Hawkers Beer                            |        100 |   238
+ Holgate Brewhouse                       |        108 |   238
+ Nogne 0 (Hansa Borg)                    |        150 |   277
+ One Drop Brewing Co.                    |        157 |   238
+ Malt Wolf Pty Ltd                       |        131 |   238
+ Bracket Brewing                         |         35 |   248
+ Brewdog                                 |         36 |   248
+ Revision Brewing Company                |        173 |   260
+ Sierra Nevada Brewing Company           |        185 |   238
+ Otherside Brewing Co                    |        160 |   278
+ Brouwerij de Molen                      |         62 |   243
+ Belching Beaver Brewery                 |         25 |   238
+ Karl Strauss Brewing Company            |        114 |   238
+ Ballast Point Brewing Co                |         17 |   237
+ Mountain Culture Beer Co                |        141 |   316
+ Kiuchi Brewery (Hitachino)              |        107 |   255
+ Ekim Brewing Co                         |         69 |   248
+ Rocks Brewing Co                        |        175 |   240
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   317
+ Great Leap Brewing                      |         92 |   255
+ Frenchies Bistro and Brewery            |         83 |   318
+ Blasta Brewing Co                       |         33 |   319
+ Willie the Boatman                      |        218 |   248
+ Epic Brewing Company                    |         71 |   320
+ Fork & Brewer                           |         79 |   320
+ Revision Brewing Company                |        173 |   282
+ Mountain Culture Beer Co                |        141 |   248
+ Darkes Cider                            |         60 |   321
+ Bentspoke Brewing Co                    |         27 |   322
+ Bentspoke Brewing Co                    |         27 |   322
+ Batch Brewing Co                        |         20 |   240
+ Knee Deep Brewing Co                    |        118 |   248
+ Anderson Valley Brewing Company         |         11 |   243
+ Anderson Valley Brewing Company         |         11 |   243
+ Deeds Brewing                           |        172 |   252
+ Prancing Pony Brewery                   |        170 |   303
+ Kaiju! Beer                             |        113 |   238
+ Mountain Culture Beer Co                |        141 |   248
+ Lervig Aktiebryggeri                    |        121 |   259
+ Hope Brewery                            |        109 |   256
+ Ekim Brewing Co                         |         69 |   243
+ Mountain Goat Beer                      |        142 |   243
+ Hope Brewery                            |        109 |   256
+ Hawkers Beer                            |        100 |   271
+ Evil Twin Brewing                       |         73 |   240
+ Prancing Pony Brewery                   |        170 |   323
+ Colonial Brewing Company                |         55 |   243
+ Bracket Brewing                         |         35 |   240
+ AleSmith Brewing Co                     |          7 |   240
+ Detour Beer Co                          |         65 |   240
+ Zytho Brewing                           |        224 |   240
+ Hope Brewery                            |        109 |   256
+ Hope Brewery                            |        109 |   256
+ Prancing Pony Brewery                   |        170 |   272
+ Deeds Brewing                           |        172 |   278
+ Pasteur Street Brewing Co               |        164 |   240
+ Epic Brewing Company                    |         71 |   277
+ Fourpure Brewing Co                     |         81 |   240
+ Bacchus Brewing Company                 |         14 |   238
+ AleSmith Brewing Co                     |          7 |   238
+ Batch Brewing Co                        |         20 |   248
+ Moon Dog Craft Brewery                  |        137 |   243
+ Moon Dog Craft Brewery                  |        137 |   324
+ Moon Dog Craft Brewery                  |        137 |   243
+ Moon Dog Craft Brewery                  |        137 |   243
+ Big Shed Brewing                        |         29 |   248
+ Frenchies Bistro and Brewery            |         83 |   325
+ HaandBryggeriet                         |         96 |   260
+ One Drop Brewing Co.                    |        157 |   326
+ Deeds Brewing                           |        172 |   282
+ Toppling Goliath Brewing Co.            |        202 |   260
+ Pizza Port Brewing Company              |        169 |   278
+ Akasha Brewing Company                  |          6 |   278
+ Heart of Darkness                       |        101 |   240
+ Balter Brewing Co                       |         19 |   236
+ Mountain Culture Beer Co                |        141 |   236
+ Chur (Behemoth) Brewing                 |         52 |   238
+ Wolf of the Willows Brewing Co          |        220 |   237
+ Lezajsk Brewery                         |        122 |   236
+ 3 Ravens Brewing Co                     |          2 |   327
+ One Drop Brewing Co.                    |        157 |   326
+ One Drop Brewing Co.                    |        157 |   326
+ Figueroa Mountain Brewing Co            |         77 |   271
+ Mountain Culture Beer Co                |        141 |   257
+ Bacchus Brewing Company                 |         14 |   283
+ HaandBryggeriet                         |         96 |   248
+ Moon Dog Craft Brewery                  |        137 |   236
+ Newstead Brewing Company                |        148 |   328
+ Sunday Road Brewing Co                  |        195 |   270
+ AleSmith Brewing Co                     |          7 |   240
+ Deep Creek Brewing                      |         61 |   278
+ Akasha Brewing Company                  |          6 |   260
+ Garage Project                          |         85 |   278
+ Prancing Pony Brewery                   |        170 |   243
+ Bridge Road Brewers                     |         38 |   329
+ Yulli's Brews                           |        223 |   279
+ Moon Dog Craft Brewery                  |        137 |   279
+ Hawkers Beer                            |        100 |   278
+ N.O.M.A.D Brewing                       |        149 |   240
+ Urban Alley Brewery                     |        208 |   330
+ Bacchus Brewing Company                 |         14 |   258
+ Colonial Brewing Company                |         55 |   256
+ Mountain Culture Beer Co                |        141 |   331
+ Kizakura Sake Brewing Co. Ltd.          |        117 |   240
+ Billson's Brewery                       |         30 |   249
+ Hair of the Dog Brewing Company         |         97 |   239
+ Black Hops                              |         32 |   320
+ Sauce Brewing Co                        |        183 |   278
+ Hop Nation Brewing Co                   |        111 |   277
+ One Drop Brewing Co.                    |        157 |   332
+ Ballistic Beer Company                  |         18 |   249
+ Bright Brewery                          |         39 |   240
+ Deeds Brewing                           |        172 |   283
+ Phantom Beer                            |        167 |   240
+ Firestone Walker Brewing Company        |         78 |   238
+ One Drop Brewing Co.                    |        157 |   248
+ Fair Stae Brewing Cooperative           |         75 |   238
+ Bacchus Brewing Company                 |         14 |   333
+ Electric Bear Brewing Co                |         70 |   279
+ Spencer Brewery                         |        205 |   334
+ Brouwerij de Molen                      |         62 |   243
+ Black Hops                              |         32 |   238
+ Mountain Culture Beer Co                |        141 |   249
+ Brasserie Dieu du Ciel!                 |         66 |   239
+ Pirate Life Brewing                     |        168 |   240
+ Urbanaut Brewing Co                     |        209 |   256
+ Bacchus Brewing Company                 |         14 |   240
+ Pelican Brewing                         |        165 |   235
+ Stockade Brew Co                        |        193 |   248
+ Mountain Culture Beer Co                |        141 |   242
+ Mudgee Brewing Co                       |        144 |   243
+ Stockade Brew Co                        |        193 |   271
+ Birra del Borgo                         |         31 |   335
+ Dogfish Head Brewery                    |         67 |   335
+ Blasta Brewing Co                       |         33 |   240
+ Mountain Culture Beer Co                |        141 |   242
+ Sierra Nevada Brewing Company           |        185 |   243
+ Aegir Bryggeri                          |          5 |   237
+ 4 Pines Brewing Company                 |          3 |   336
+ Bridge Road Brewers                     |         38 |   252
+ Bridge Road Brewers                     |         38 |   257
+ Stone Brewing                           |        194 |   238
+ Bracket Brewing                         |         35 |   240
+ One Drop Brewing Co.                    |        157 |   240
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   256
+ Bridge Road Brewers                     |         38 |   329
+ Garage Project                          |         85 |   248
+ Other Half Brewing                      |        159 |   248
+ Omnipollo                               |        156 |   243
+ Sierra Nevada Brewing Company           |        185 |   264
+ Modus Operandi Brewing Company          |        134 |   236
+ Chur (Behemoth) Brewing                 |         52 |   238
+ Mountain Culture Beer Co                |        141 |   252
+ Samuel Smiths Brewery                   |        181 |   275
+ Big Shed Brewing                        |         29 |   278
+ Boatrocker Brewers and Distillers       |         34 |   249
+ Sauce Brewing Co                        |        183 |   271
+ Six String Brewing Company              |        188 |   238
+ Grassy Knoll Brewing                    |         91 |   240
+ Ocean Reach Brewing                     |        152 |   274
+ Sierra Nevada Brewing Company           |        185 |   243
+ Frenchies Bistro and Brewery            |         83 |   300
+ Boatrocker Brewers and Distillers       |         34 |   290
+ Bright Brewery                          |         39 |   283
+ Moon Dog Craft Brewery                  |        137 |   243
+ Lone Pine Brewing                       |        128 |   260
+ Sierra Nevada Brewing Company           |        185 |   331
+ Harviestoun Brewery                     |         99 |   239
+ Northcoast Brewing Co                   |        151 |   249
+ Wayward Brewing Co                      |        211 |   257
+ Bracket Brewing                         |         35 |   257
+ Deeds Brewing                           |        172 |   243
+ One Drop Brewing Co.                    |        157 |   238
+ One Drop Brewing Co.                    |        157 |   240
+ Brasserie Atrium                        |         12 |   337
+ Modern Times Beer                       |        133 |   238
+ Brasserie d'Orval                       |        158 |   338
+ Pizza Port Brewing Company              |        169 |   240
+ 3 Ravens Brewing Co                     |          2 |   253
+ Algorithm Brewing                       |          8 |   259
+ Mountain Culture Beer Co                |        141 |   259
+ Prancing Pony Brewery                   |        170 |   259
+ Sierra Nevada Brewing Company           |        185 |   259
+ Brewdog                                 |         36 |   243
+ Garage Project                          |         85 |   248
+ LIC Beer Project                        |        124 |   248
+ Two Birds Brewing                       |        203 |   277
+ Golden Road Brewing                     |         88 |   238
+ Mountain Culture Beer Co                |        141 |   257
+ Dainton Brewing                         |         59 |   316
+ Stone Brewing                           |        194 |   278
+ Hop Nation Brewing Co                   |        111 |   258
+ Brasserie Dieu du Ciel!                 |         66 |   339
+ Garage Project                          |         85 |   278
+ Bacchus Brewing Company                 |         14 |   258
+ AleSmith Brewing Co                     |          7 |   340
+ Brewery Ommegang                        |        155 |   340
+ Hawkers Beer                            |        100 |   262
+ Austmann Bryggeri                       |         13 |   248
+ Epic Brewing Company                    |         71 |   257
+ Epic Brewing Company                    |         71 |   248
+ Toppling Goliath Brewing Co.            |        202 |   248
+ Modern Times Beer                       |        133 |   278
+ Colonial Brewing Company                |         55 |   283
+ Sydney Brewery                          |        197 |   283
+ Epic Brewing Company                    |         71 |   238
+ Bracket Brewing                         |         35 |   238
+ Toppling Goliath Brewing Co.            |        202 |   259
+ Pirate Life Brewing                     |        168 |   239
+ Bacchus Brewing Company                 |         14 |   238
+ Brewdog                                 |         36 |   240
+ Hargreaves Hill Brewing Co              |         98 |   238
+ Sydney Brewery                          |        197 |   341
+ One Drop Brewing Co.                    |        157 |   259
+ Revision Brewing Company                |        173 |   248
+ Akasha Brewing Company                  |          6 |   253
+ Bear Republic Brewing                   |         22 |   278
+ Little Creatures Brewing (Lion/Kirin)   |        126 |   249
+ Buxton Brewery Co                       |         43 |   243
+ Clown Shoes Beer                        |         53 |   238
+ Boatrocker Brewers and Distillers       |         34 |   243
+ Bacchus Brewing Company                 |         14 |   303
+ Bulli Brewing Co                        |         42 |   253
+ Bentspoke Brewing Co                    |         27 |   253
+ Central City Brewers                    |         50 |   240
+ Grand Ridge Brewery                     |         90 |   303
+ Quakers Hat Brewing                     |        171 |   240
+ Willie the Boatman                      |        218 |   342
+ Hawkers Beer                            |        100 |   303
+ Otherside Brewing Co                    |        160 |   343
+ Chur (Behemoth) Brewing                 |         52 |   238
+ Stockade Brew Co                        |        193 |   259
+ Revision Brewing Company                |        173 |   240
+ White Bay Beer Co                       |        214 |   238
+ Chur (Behemoth) Brewing                 |         52 |   240
+ Little Bang Brewing Co                  |        125 |   278
+ Bright Brewery                          |         39 |   248
+ Rodenbach Brewery                       |        177 |   250
+ Akasha Brewing Company                  |          6 |   278
+ Brasserie Dieu du Ciel!                 |         66 |   344
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   253
+ Deschutes Brewers                       |         63 |   271
+ Bracket Brewing                         |         35 |   261
+ White Bay Beer Co                       |        214 |   253
+ De Struise Brouwers                     |         64 |   269
+ Akasha Brewing Company                  |          6 |   240
+ Ballistic Beer Company                  |         18 |   240
+ Exit Brewing                            |         74 |   300
+ Brasserie Dupont                        |         68 |   300
+ Brasserie Dupont                        |         68 |   300
+ 3 Ravens Brewing Co                     |          2 |   275
+ Hope Brewery                            |        109 |   282
+ Caledonian Brewery                      |         44 |   345
+ Green Beacon Brewing Co                 |         93 |   346
+ Ballast Point Brewing Co                |         17 |   240
+ Akasha Brewing Company                  |          6 |   347
+ One Drop Brewing Co.                    |        157 |   240
+ Gigantic Brewing Company                |         86 |   238
+ Thunder Road Brewing Co                 |        199 |   348
+ Bracket Brewing                         |         35 |   240
+ Slow Lane Brewing                       |        189 |   277
+ New England Brewing Co                  |        147 |   300
+ Brewdog                                 |         36 |   304
+ Bracket Brewing                         |         35 |   240
+ Mountain Culture Beer Co                |        141 |   240
+ One Drop Brewing Co.                    |        157 |   238
+ Garage Project                          |         85 |   243
+ New England Brewing Co                  |        147 |   278
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   240
+ Sierra Nevada Brewing Company           |        185 |   349
+ Singlecut Beersmiths                    |        186 |   260
+ N.O.M.A.D Brewing                       |        149 |   278
+ Holgate Brewhouse                       |        108 |   350
+ White Rabbit Brewing                    |        215 |   351
+ Brouwerij Kees!                         |        115 |   352
+ Epic Brewing Company                    |         71 |   238
+ Bear Republic Brewing                   |         22 |   243
+ Bracket Brewing                         |         35 |   240
+ Stockade Brew Co                        |        193 |   285
+ Bentspoke Brewing Co                    |         27 |   240
+ Wildflower Brewing and Blending         |        217 |   308
+ Mountain Culture Beer Co                |        141 |   353
+ Bad Shepherd Brewing Co                 |         16 |   249
+ Mountain Culture Beer Co                |        141 |   238
+ Six String Brewing Company              |        188 |   242
+ Pirate Life Brewing                     |        168 |   240
+ One Drop Brewing Co.                    |        157 |   248
+ Beer Farm                               |         24 |   248
+ Bright Brewery                          |         39 |   243
+ Sea Legs Brewing Co                     |        182 |   238
+ Hope Brewery                            |        109 |   354
+ Hope Brewery                            |        109 |   354
+ Garage Project                          |         85 |   238
+ Trillium Brewing Company                |        206 |   238
+ Two Birds Brewing                       |        203 |   251
+ Almanac Beer Company                    |          9 |   355
+ Offshoot Beer                           |        154 |   238
+ Hope Brewery                            |        109 |   248
+ Central City Brewers                    |         50 |   240
+ Dainton Brewing                         |         59 |   356
+ Pizza Port Brewing Company              |        169 |   240
+ Belching Beaver Brewery                 |         25 |   240
+ One Drop Brewing Co.                    |        157 |   240
+ Two Birds Brewing                       |        203 |   259
+ Brewdog                                 |         36 |   357
+ Samuel Smiths Brewery                   |        181 |   283
+ Garage Project                          |         85 |   240
+ Akasha Brewing Company                  |          6 |   240
+ Deeds Brewing                           |        172 |   252
+ Outer Range Brewing Company             |        161 |   252
+ Counter Culture Brewing                 |         58 |   358
+ Lone Pine Brewing                       |        128 |   278
+ Deschutes Brewers                       |         63 |   243
+ Bad Shepherd Brewing Co                 |         16 |   271
+ One Drop Brewing Co.                    |        157 |   359
+ Batch Brewing Co                        |         20 |   275
+ Batch Brewing Co                        |         20 |   278
+ Hop Nation Brewing Co                   |        111 |   260
+ CoConspirators Brewing Co               |         54 |   252
+ 3 Ravens Brewing Co                     |          2 |   314
+ Moon Dog Craft Brewery                  |        137 |   235
+ Moon Dog Craft Brewery                  |        137 |   240
+ Bridge Road Brewers                     |         38 |   240
+ One Drop Brewing Co.                    |        157 |   240
+ Hop Nation Brewing Co                   |        111 |   261
+ Moon Dog Craft Brewery                  |        137 |   259
+ Deeds Brewing                           |        172 |   243
+ Parallel49 Brewing Company              |        162 |   278
+ Last Rites Brewing Co                   |        120 |   360
+ Humble Sea Brewing                      |        110 |   238
+ Local Brewing Co                        |        127 |   248
+ Brewery Ommegang                        |        155 |   361
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   271
+ Big Shed Brewing                        |         29 |   279
+ Moon Dog Craft Brewery                  |        137 |   279
+ Sparkke Change Beverage Company         |        204 |   263
+ Mountain Culture Beer Co                |        141 |   249
+ One Drop Brewing Co.                    |        157 |   359
+ Mountain Culture Beer Co                |        141 |   362
+ Tooheys Brothers                        |        200 |   280
+ Sierra Nevada Brewing Company           |        185 |   363
+ Two Birds Brewing                       |        203 |   285
+ Aegir Bryggeri                          |          5 |   235
+ Detour Beer Co                          |         65 |   259
+ Spencer Brewery                         |        205 |   364
+ Brasserie de Rochefort                  |        174 |   314
+ Sailors Grave Brewing                   |        180 |   238
+ Deep Creek Brewing                      |         61 |   238
+ Badlands Brewery                        |         15 |   365
+ Mismatch Brewing Company                |        132 |   282
+ Batch Brewing Co                        |         20 |   366
+ Frenchies Bistro and Brewery            |         83 |   367
+ Dainton Brewing                         |         59 |   258
+ One Drop Brewing Co.                    |        157 |   271
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   242
+ Hawkers Beer                            |        100 |   368
+ Firestone Walker Brewing Company        |         78 |   240
+ Big Drop Brewing Co                     |         28 |   236
+ Tallboy & Moose Make Beer Pty Ltd       |        198 |   369
+ Akasha Brewing Company                  |          6 |   253
+ Newstead Brewing Company                |        148 |   253
+ Boatrocker Brewers and Distillers       |         34 |   370
+ Carlton and United Breweries            |         48 |   280
+ Ballast Point Brewing Co                |         17 |   237
+ Dainton Brewing                         |         59 |   371
+ Big Shed Brewing                        |         29 |   235
+ Belching Beaver Brewery                 |         25 |   372
+ Shark Island Brewing Company            |        184 |   240
+ New Belgium Brewing Company             |        146 |   240
+ Mountain Culture Beer Co                |        141 |   248
+ Little Bang Brewing Co                  |        125 |   283
+ Stockade Brew Co                        |        193 |   278
+ Akasha Brewing Company                  |          6 |   275
+ N.O.M.A.D Brewing                       |        149 |   275
+ Rogue Ales and Spirits                  |        178 |   275
+ Equilibrium Brewery                     |         72 |   240
+ Epic Brewing Company                    |         71 |   257
+ One Drop Brewing Co.                    |        157 |   373
+ Hope Brewery                            |        109 |   257
+ Bracket Brewing                         |         35 |   257
+ Mr.Banks Brewing Co                     |        143 |   257
+ Bay Rd Brewing                          |         21 |   272
+ Kaiju! Beer                             |        113 |   374
+ Willie Smiths Cidery                    |        219 |   375
+ Pirate Life Brewing                     |        168 |   249
+ Garage Project                          |         85 |   256
+ Murrays Brewing Co                      |        145 |   243
+ Green Beacon Brewing Co                 |         93 |   240
+ Moersleutel Beer Engineers              |        135 |   243
+ Ocean Reach Brewing                     |        152 |   248
+ Golden Road Brewing                     |         88 |   240
+ Akasha Brewing Company                  |          6 |   320
+ Detour Beer Co                          |         65 |   259
+ Rogue Ales and Spirits                  |        178 |   271
+ Castlemaine Perkins Brewery             |         47 |   280
+ One Drop Brewing Co.                    |        157 |   240
+ Garage Project                          |         85 |   252
+ Trillium Brewing Company                |        206 |   252
+ Stockade Brew Co                        |        193 |   376
+ Heretic Brewing                         |        104 |   252
+ Bacchus Brewing Company                 |         14 |   238
+ Kiuchi Brewery (Hitachino)              |        107 |   236
+ Moonraker Brewing                       |        138 |   271
+ Clown Shoes Beer                        |         53 |   248
+ Abbaye de Scourmont - Chimay            |         51 |   377
+ Bayerische Staatsbrauerei Weihenstephan |        212 |   330
+(664 rows)
+

@@ -1,0 +1,46 @@
+#!/usr/bin/python3
+import sys
+import psycopg2
+import re
+
+if len(sys.argv) <3: 
+    print(f"Usage: {sys.argv[0]} subject term")
+    exit(1)
+
+subject = sys.argv[1]
+term = sys.argv[2]
+db = None
+cur = None 
+
+query = """ 
+select p.id, p.family, p.given  from Subjects s 
+join Courses c on c.subject = s.id 
+join terms t on c.term=t.id
+join course_enrolments ce on ce.course=c.id
+join people p on ce.student=p.id
+where s.code = %s
+and t.code = %s
+order by p.family, p.given  
+""" 
+
+try: 
+	db = psycopg2.connect("dbname=mymyunsw") 
+	cur = db.cursor()
+	cur.execute(query, [subject, term])
+	results=cur.fetchall()
+
+	print(f"{subject} {term}")
+	for result in results:
+		zid = result[0]
+		print(f"{result[0]} {result[1]} {result[2]}") 
+		break
+	
+	if results is None: 
+		print("no students")
+		
+except psycopg2.Error as err: 
+	print("database error: ", err)
+finally: 
+	if db: 
+		db.close()
+		cur.close()

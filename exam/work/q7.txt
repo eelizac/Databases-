@@ -1,0 +1,17 @@
+# COMP3311 21T3 Final Exam Q7
+# Python/Psycopg2 scripts
+
+(A)
+These scripts do create the same output 
+
+
+
+(B)
+A executes 11 queries whilst B only executes 1 query. 
+
+
+
+(C)
+B is likely to be faster, this is because there 10 times more queries called. 
+
+

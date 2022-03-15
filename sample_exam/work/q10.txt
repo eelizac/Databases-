@@ -1,0 +1,43 @@
+# COMP3311 20T3 Final Exam Q10
+
+qT = "select id,country from Teams order by country"
+qC = """
+select m.city, count(*)
+from   Matches m join Involves i on (m.id = i.match)
+where  i.team = %s
+group  by m.city
+order  by m.city
+"""
+db = psycopg2.connect("dbname=footy")
+cur = db.cursor()
+cur.execute(qT)
+results1 = cur.fetchall()
+for tuple1 in results1: -0 for each id and country : tid = country id; t = country 
+   tid, t = tuple1
+   cur.execute(qC, [tid]) --> select the match city, and the count of all the matches that country has been involved in 
+   results2 = cur.fetchall()
+   for tuple2 in results2: --> for match city 
+      c, n = tuple2
+      print(f"{t} {c} {n}") --> country match city 
+
+
+(a)
+The script is attempting the generate a table that details the team's tally of their matches in certain locations. Ordered by team, then city. 
+
+(b)
+1 (qT) 
+100 per team -->  100 + 1 = 101 queries 
+
+(c)
+
+qNew =
+"""
+select country, m.city, count(*) as count 
+from teams t 
+join involves i 
+on i.team = t.id 
+join matches m 
+on m.id = i.match 
+group by m.city, country
+order by country, m.city 
+"""

@@ -1,0 +1,142 @@
+#!/usr/bin/python3
+# COMP3311 21T3 exam ... property finder
+
+import sys
+import psycopg2
+import re
+
+# define any local helper functions here
+
+### set up some globals
+
+usage = f"Usage: {sys.argv[0]} type maxPrice #beds #baths #cars\n"\
+f"type is one of Apartment, House, Townhouse\n"\
+"maxPrice is upper bound; #x = exact match; 0 means don't care"
+
+types = ["Apartment", "House", "Townhouse"]
+db = None
+
+### process command-line args
+
+argc = len(sys.argv)
+if argc < 6:
+  print(usage)
+  exit(1)
+ptype = sys.argv[1]
+if not ptype in types:
+  print(usage)
+  exit(1)
+digits = re.compile("^\d+$")
+for arg in sys.argv[2:5]:
+  if not digits.match(arg):
+    print(usage)
+    exit(1)
+
+maxPrice = int(sys.argv[2])
+nbeds = int(sys.argv[3])
+nbaths = int(sys.argv[4])
+ncars = int(sys.argv[5])
+
+# manipulate database
+
+try:
+
+  q = """
+  select p.id, p.unit_no, p.street_no, s.name as street, s.stype, su.name as suburb, su.postcode 
+  from properties p 
+  join streets s
+  on p.street = s.id
+  join suburbs su 
+  on s.suburb = su.id
+  where p.sold_date is null and p.ptype = %s and p.list_price <= %s
+  order by p.list_price, p.id
+  """
+
+  db = psycopg2.connect("dbname=property")
+  cur = db.cursor()
+  cur.execute(q,[ptype, maxPrice])
+  
+  addresses = cur.fetchall()
+  for address in addresses:
+    if ptype == 'Apartment':
+      valid = 1 
+      qbed = "select number from features where property = %s and feature = 'bedrooms'"
+      qbath = "select number from features where property = %s and feature = 'bathrooms'"
+      qcar = " select number from features where property = %s and feature = 'carspaces'"
+
+      qprice = " select list_price from properties where id = %s"
+      cur.execute(qbed,[address[0]])
+      bed = cur.fetchone()
+      if bed == None: 
+        bed = [0,0] 
+
+      cur.execute(qbath,[address[0]])
+      bath = cur.fetchone()
+      if bath == None: 
+        bath = [0,0] 
+
+      cur.execute(qcar,[address[0]])
+      car = cur.fetchone()
+      if car == None: 
+        car = [0,0]
+
+      cur.execute(qprice, [address[0]])
+      price = cur.fetchone() 
+
+      # check if valid" 
+      if (nbeds != 0) and (nbeds != bed[0]): 
+        valid = 0
+      
+      if (nbaths != 0) and (nbaths != bath[0]): 
+        valid = 0
+
+      if (ncars != 0) and (ncars != car[0]): 
+        valid = 0
+
+      if valid == 1: 
+        print(f"#{address[0]}: {address[1]}/{address[2]} {address[3]} {address[4]}, {address[5]} {address[6]}, {bed[0]}br, {bath[0]}ba, {car[0]}car, ${price[0]}") 
+      
+    else: 
+      valid = 1 
+      qbed = "select number from features where property = %s and feature = 'bedrooms'"
+      qbath = "select number from features where property = %s and feature = 'bathrooms'"
+      qcar = " select number from features where property = %s and feature = 'carspaces'"
+
+      qprice = " select list_price from properties where id = %s"
+      cur.execute(qbed,[address[0]])
+      bed = cur.fetchone()
+      if bed == None: 
+        bed = [0,0] 
+
+      cur.execute(qbath,[address[0]])
+      bath = cur.fetchone()
+      if bath == None: 
+        bath = [0,0] 
+
+      cur.execute(qcar,[address[0]])
+      car = cur.fetchone()
+      if car == None: 
+        car = [0,0]
+
+      cur.execute(qprice, [address[0]])
+      price = cur.fetchone() 
+
+      # check if valid" 
+      if (nbeds != 0) and (nbeds != bed[0]): 
+        valid = 0
+      
+      if (nbaths != 0) and (nbaths != bath[0]): 
+        valid = 0
+
+      if (ncars != 0) and (ncars != car[0]): 
+        valid = 0
+
+      if valid == 1: 
+        print(f"#{address[0]}: {address[2]} {address[3]} {address[4]}, {address[5]} {address[6]}, {bed[0]}br, {bath[0]}ba, {car[0]}car, ${price[0]}") 
+        
+except Exception as err:
+  print("DB error: ", err)
+finally:
+  if db:
+    db.close()
+

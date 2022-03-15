@@ -1,0 +1,19 @@
+# COMP3311 21T3 Final Exam Q8
+# Query execution times
+
+(A)
+The first execution is so much slower that subsequent execution as data is not in cache. 
+After the first execution, the data is in memory and can be quickly read by the server 
+instead of going through the database. 
+
+
+
+(B)
+An int data type requires less memory than a date data type. Thus, when querying the database analysing each integer, 
+it will cost less and take up less memory than analysing each date. Thus, the execution time 
+is larger for the second query, that searches through dates. 
+This effect is even stronger considering that max is an aggregate function, that deals with the 
+database more than once
+
+
+

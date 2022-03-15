@@ -1,0 +1,63 @@
+  code  |             name             | stream |              school              |               rules               | type | min_req | max_req |                                                                        definition                                                                        
+--------+------------------------------+--------+----------------------------------+-----------------------------------+------+---------+---------+----------------------------------------------------------------------------------------------------------------------------------------------------------
+ COMPA1 | Computer Science             |      1 | Computer Science and Engineering | COMPA1 Computing Electives        | PE   |      30 |         | ENGG2600,ENG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPA1 | Computer Science             |      1 | Computer Science and Engineering | COMPA1 Free Electives             | FE   |      36 |         | FREE####
+ COMPAS | Artificial Intelligence      |      2 | Computer Science and Engineering | COMPAS Core                       | CC   |         |         | {COMP9414;COMP9814}
+ COMPAS | Artificial Intelligence      |      2 | Computer Science and Engineering | COMPAS Electives                  | PE   |      18 |      18 | COMP4418,COMP9318,COMP9417,COMP9418,COMP9434,COMP9444,COMP9491,COMP9517,MATH5836
+ COMPAS | Artificial Intelligence      |      2 | Computer Science and Engineering | COMPAS Disciplinary Electives     | PE   |         |       6 | BINF6###,BINF9###,COMP4###,COMP6###,COMP9###,GSOE92###
+ COMPBH | Computer Engineering         |      3 | Computer Science and Engineering | Foundational Computing            | CC   |         |         | COMP1511,COMP1521,COMP1531,COMP2511,COMP2521
+ COMPBH | Computer Engineering         |      3 | Computer Science and Engineering | COMPBH Maths                      | CC   |         |         | {MATH1131;MATH1141},{MATH1231;MATH1241},MATH2069,MATH2099
+ COMPBH | Computer Engineering         |      3 | Computer Science and Engineering | COMPBH Physics and Electronics    | CC   |         |         | {PHYS1121;PHYS1131},{PHYS1221;PHYS1231},ELEC1111,ELEC2133,ELEC2134
+ COMPBH | Computer Engineering         |      3 | Computer Science and Engineering | COMPBH Design                     | CC   |         |         | {ENGG1000;DESN1000},DESN2000
+ COMPBH | Computer Engineering         |      3 | Computer Science and Engineering | COMPBH Advanced Core              | CC   |         |         | COMP3211,COMP3222,COMP3231,COMP3601,COMP4601,COMP4920,COMP4951,COMP4952,COMP4953
+ COMPBH | Computer Engineering         |      3 | Computer Science and Engineering | COMPBH Computing Electives        | PE   |      36 |         | ENGG2600,ENGG3060,ENGG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPBS | Bioinformatics               |      4 | Computer Science and Engineering | COMPBS Core                       | CC   |         |         | BINF9010,BINF9020
+ COMPBS | Bioinformatics               |      4 | Computer Science and Engineering | COMPBS Electives                  | PE   |      18 |      18 | COMP9318,COMP9417,MATH5846,MATH5856
+ COMPBS | Bioinformatics               |      4 | Computer Science and Engineering | COMPBS Disciplinary Electives     | PE   |         |       6 | BINF6###,BINF9###,COMP4###,COMP6###,COMP9###,GSOE92###
+ COMPCS | Computer Science             |      5 | Computer Science and Engineering | COMPCS Disciplinary Electives     | PE   |      24 |      24 | BINF6###,BINF9###,COMP4###,COMP6###,COMP9###,GSOE92###
+ COMPD1 | Database Systems             |      6 | Computer Science and Engineering | COMPD1 Core                       | CC   |         |         | COMP3311
+ COMPD1 | Database Systems             |      6 | Computer Science and Engineering | COMPD1 Electives                  | PE   |      18 |      18 | COMP6714,COMP9312,COMP9313,COMP9315,COMP9318,COMP9319
+ COMPD1 | Database Systems             |      6 | Computer Science and Engineering | COMPD1 Computing Electives        | PE   |       6 |         | ENGG2600,ENG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPD1 | Database Systems             |      6 | Computer Science and Engineering | COMPD1 Free Electives             | FE   |      36 |         | FREE####
+ COMPDS | Database Systems             |      7 | Computer Science and Engineering | COMPDS Electives                  | PE   |      18 |      18 | COMP6714,COMP9312,COMP9313,COMP9315,COMP9318,COMP9319,COMP9321
+ COMPDS | Database Systems             |      7 | Computer Science and Engineering | COMPDS Disciplinary Electives     | PE   |         |      12 | BINF6###,BINF9###,COMP4###,COMP6###,COMP9###,GSOE92###
+ COMPE1 | eCommerce Systems            |      8 | Computer Science and Engineering | COMPE1 Core                       | CC   |         |         | COMP3311
+ COMPE1 | eCommerce Systems            |      8 | Computer Science and Engineering | COMPE1 Electives                  | PE   |      18 |      18 | COMP3511,COMP9321,COMP9322,COMP9323
+ COMPE1 | eCommerce Systems            |      8 | Computer Science and Engineering | COMPD1 Computing Electives        | PE   |       6 |         | ENGG2600,ENG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPE1 | eCommerce Systems            |      8 | Computer Science and Engineering | COMPD1 Free Electives             | FE   |      36 |         | FREE####
+ COMPES | eCommerce Systems            |      9 | Computer Science and Engineering | COMPES Electives                  | PE   |      18 |      18 | ACCT5922,COMP6324,COMP6452,COMP9313,COMP9321,COMP9322,COMP9323
+ COMPES | eCommerce Systems            |      9 | Computer Science and Engineering | COMPES Disciplinary Electives     | PE   |         |      12 | BINF6###,BINF9###,COMP4###,COMP6###,COMP9###,GSOE92###
+ COMPI1 | Artificial Intelligence      |     11 | Computer Science and Engineering | COMPI1 Core                       | CC   |         |         | COMP3411
+ COMPI1 | Artificial Intelligence      |     11 | Computer Science and Engineering | COMPI1 Electives                  | PE   |      18 |      18 | COMP3431,COMP4418,COMP9318,COMP9417,COMP9418,COMP9444,COMP9517
+ COMPI1 | Artificial Intelligence      |     11 | Computer Science and Engineering | COMPI1 Computing Electives        | PE   |       6 |         | ENGG2600,ENG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPI1 | Artificial Intelligence      |     11 | Computer Science and Engineering | COMPI1 Free Electives             | FE   |      36 |         | FREE####
+ COMPIS | Internetworking              |     12 | Computer Science and Engineering | COMPIS Electives                  | PE   |      18 |      18 | COMP9332,COMP9334,COMP6733,COMP9336,COMP9337
+ COMPIS | Internetworking              |     12 | Computer Science and Engineering | COMPDS Disciplinary Electives     | PE   |         |      12 | BINF6###,BINF9###,COMP4###,COMP6###,COMP9###,GSOE92###
+ COMPJ1 | Programming Languages        |     13 | Computer Science and Engineering | COMPJ1 Core                       | CC   |         |         | COMP3161
+ COMPJ1 | Programming Languages        |     13 | Computer Science and Engineering | COMPJ1 Electives                  | PE   |      18 |      18 | COMP3131,COMP3141,COMP3151,COMP6771
+ COMPJ1 | Programming Languages        |     13 | Computer Science and Engineering | COMPJ1 Computing Electives        | PE   |       6 |         | ENGG2600,ENG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPJ1 | Programming Languages        |     13 | Computer Science and Engineering | COMPJ1 Free Electives             | FE   |      36 |         | FREE####
+ COMPN1 | Computer Networks            |     14 | Computer Science and Engineering | COMPN1 Core                       | CC   |         |         | COMP3331
+ COMPN1 | Computer Networks            |     14 | Computer Science and Engineering | COMPN1 Electives                  | PE   |      18 |      18 | COMP4336,COMP4337,COMP6733,COMP9332,COMP9334
+ COMPN1 | Computer Networks            |     14 | Computer Science and Engineering | COMPN1 Computing Electives        | PE   |       6 |         | ENGG2600,ENG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPN1 | Computer Networks            |     14 | Computer Science and Engineering | COMPN1 Free Electives             | FE   |      36 |         | FREE####
+ COMPS1 | Embedded Systems             |     15 | Computer Science and Engineering | COMPS1 Core                       | CC   |         |         | COMP2121,COMP3222
+ COMPS1 | Embedded Systems             |     15 | Computer Science and Engineering | COMPS1 Electives                  | PE   |      18 |      18 | COMP3211,COMP3231,COMP3601,COMP4601,COMP9242,COMP9517
+ COMPS1 | Embedded Systems             |     15 | Computer Science and Engineering | COMPS1 Computing Electives        | PE   |       6 |         | ENGG2600,ENG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPS1 | Embedded Systems             |     15 | Computer Science and Engineering | COMPS1 Free Electives             | FE   |      30 |         | FREE####
+ COMPSS | Data Science and Engineering |     16 | Computer Science and Engineering | COMPSS Algos/Stats Electives      | PE   |       6 |      12 | COMP4141,COMP6741,MATH5845,MATH5855,MATH5905,MATH5960
+ COMPSS | Data Science and Engineering |     16 | Computer Science and Engineering | COMPSS Databases Electives        | PE   |       6 |      12 | COMP9313,COMP9315,COMP9318,COMP9319,COMP9321
+ COMPSS | Data Science and Engineering |     16 | Computer Science and Engineering | COMPSS Machine Learning Electives | PE   |       6 |      12 | COMP4418,COMP6714,COMP9417,MATH5836,COMP9444
+ COMPSS | Data Science and Engineering |     16 | Computer Science and Engineering | COMPSS Disciplinary Electives     | PE   |         |       6 | BINF6###,BINF9###,COMP4###,COMP6###,COMP9###,GSOE92###
+ COMPY1 | Security Engineering         |     17 | Computer Science and Engineering | COMPY1 Core                       | CC   |         |         | {COMP6441;COMP6841}
+ COMPY1 | Security Engineering         |     17 | Computer Science and Engineering | COMPY1 Electives                  | PE   |      18 |      18 | COMP4337,{COMP6443;COMP6843},{COMP6445;COMP6845},COMP6447,COMP6448,COMP6449,COMP9447,MATH3411,TELE3119
+ COMPY1 | Security Engineering         |     17 | Computer Science and Engineering | COMPY1 Computing Electives        | PE   |       6 |         | ENGG2600,ENG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###
+ COMPY1 | Security Engineering         |     17 | Computer Science and Engineering | COMPY1 Free Electives             | FE   |      30 |         | FREE####
+ SENGAH | Software Engineering         |     18 | Computer Science and Engineering | Foundational Computing            | CC   |         |         | COMP1511,COMP1521,COMP1531,COMP2511,COMP2521
+ SENGAH | Software Engineering         |     18 | Computer Science and Engineering | SENGAH Maths                      | CC   |         |         | MATH1081,{MATH1131;MATH1141},{MATH1231;MATH1241},MATH2400,MATH2859
+ SENGAH | Software Engineering         |     18 | Computer Science and Engineering | SENGAH Workshops/Design           | CC   |         |         | ENGG1000,DESN2000,SENG2011,SENG2021,SENG3011
+ SENGAH | Software Engineering         |     18 | Computer Science and Engineering | SENGAH Advanced Core              | CC   |         |         | COMP2041,COMP3141,COMP3311,COMP3331,SENG4920,COMP4951,COMP4952,COMP4953
+ SENGAH | Software Engineering         |     18 | Computer Science and Engineering | SENGAH Discipline Electives       | PE   |      36 |         | ENGG2600,ENGG3060,ENGG3600,ENGG4600,COMP3###,COMP4###,COMP6###,COMP9###,INFS3###,INFS4###,MATH3###,MATH4###,MATH6###,ELEC3###,ELEC4###,TELE3###,TELE4###
+ SENGAH | Software Engineering         |     18 | Computer Science and Engineering | SENGAH Free Electives             | FE   |       6 |       6 | FREE####
+(59 rows)
+

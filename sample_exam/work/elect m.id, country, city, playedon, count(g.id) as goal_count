@@ -1,0 +1,570 @@
+ id  |   country   |      city      |  playedon  | goal_count 
+-----+-------------+----------------+------------+------------
+ 275 | Italy       | Melbourne      | 2003-12-21 |          1
+ 137 | Italy       | London         | 2007-11-15 |          2
+ 454 | Japan       | Tokyo          | 2003-09-25 |          2
+ 214 | Korea       | Buenos Aires   | 2005-08-19 |          2
+ 234 | France      | Marseille      | 2001-06-20 |          1
+ 198 | Spain       | Barcelona      | 2008-05-15 |          2
+ 360 | Japan       | Nagasaki       | 2001-03-02 |          1
+ 292 | England     | Stockholm      | 2002-07-11 |          2
+ 388 | France      | Nagasaki       | 2003-12-14 |          2
+ 325 | Japan       | Stockholm      | 2008-05-18 |          1
+ 187 | Iran        | Barcelona      | 2000-05-14 |          2
+ 364 | Italy       | Roma           | 2002-05-02 |          2
+ 301 | Spain       | Barcelona      | 2002-09-28 |          1
+ 111 | Italy       | Rio de Janiero | 2007-02-02 |          1
+ 369 | Japan       | Beijing        | 2006-01-20 |          2
+ 170 | Spain       | Shanghai       | 2004-11-25 |          3
+ 479 | Brazil      | Linkoping      | 2008-11-06 |          1
+ 284 | Italy       | Roma           | 2006-06-11 |          1
+ 398 | Sweden      | Shanghai       | 2000-07-14 |          1
+ 262 | Japan       | Tokyo          | 2002-02-15 |          4
+ 165 | Argentina   | Buenos Aires   | 2002-05-19 |          1
+ 131 | Australia   | Melbourne      | 2000-02-02 |          2
+ 299 | Korea       | Seoul          | 2006-11-11 |          2
+ 242 | England     | Cardiff        | 2001-12-06 |          1
+ 220 | Australia   | Brisbane       | 2004-07-07 |          1
+ 265 | France      | Marseille      | 2001-01-13 |          2
+ 142 | Iran        | Nagasaki       | 2006-09-28 |          2
+ 307 | Spain       | Madrid         | 2004-09-20 |          1
+ 261 | Japan       | Kyoto          | 2004-10-03 |          1
+ 476 | Korea       | Seoul          | 2006-11-02 |          2
+ 279 | Sweden      | Linkoping      | 2005-02-05 |          4
+ 329 | Spain       | Barcelona      | 2002-10-19 |          1
+ 106 | Spain       | Nagasaki       | 2001-10-10 |          4
+ 213 | Korea       | Busan          | 2004-12-14 |          2
+ 196 | China       | Beijing        | 2000-07-08 |          1
+ 497 | France      | Lyon           | 2003-06-05 |          2
+ 186 | Italy       | Beijing        | 2000-11-02 |          2
+ 321 | England     | Tehran         | 2007-10-19 |          1
+ 246 | Sweden      | Sao Paulo      | 2001-12-07 |          1
+ 465 | France      | Paris          | 2004-11-27 |          2
+ 377 | Korea       | Busan          | 2004-02-10 |          2
+ 309 | Netherlands | Amsterdam      | 2005-07-09 |          2
+ 294 | Italy       | Roma           | 2007-08-20 |          2
+ 294 | Germany     | Roma           | 2007-08-20 |          1
+ 223 | France      | Tehran         | 2006-09-12 |          2
+ 198 | Sweden      | Barcelona      | 2008-05-15 |          1
+ 427 | Brazil      | Rio de Janiero | 2000-11-04 |          1
+ 348 | Spain       | Madrid         | 2002-11-02 |          1
+ 144 | France      | Busan          | 2005-12-01 |          1
+ 249 | Netherlands | Montevideo     | 2002-11-19 |          2
+ 496 | Argentina   | Tehran         | 2007-03-28 |          2
+ 404 | Spain       | Berlin         | 2002-02-25 |          1
+ 141 | China       | Berlin         | 2007-07-21 |          2
+ 243 | Brazil      | Rio de Janiero | 2004-11-04 |          1
+ 417 | Sweden      | Sao Paulo      | 2006-02-27 |          1
+ 469 | Australia   | Seoul          | 2003-02-23 |          2
+ 334 | France      | Lyon           | 2001-12-14 |          2
+ 385 | Argentina   | Montevideo     | 2004-09-26 |          1
+ 368 | Netherlands | Madrid         | 2007-04-22 |          2
+ 431 | Germany     | Dortmund       | 2007-07-25 |          2
+ 352 | Spain       | Madrid         | 2006-02-24 |          1
+ 357 | Brazil      | Shanghai       | 2008-10-17 |          1
+ 221 | Germany     | Eindhoven      | 2000-02-06 |          1
+ 189 | Iran        | Tehran         | 2006-04-03 |          1
+ 208 | Sweden      | Stockholm      | 2001-10-07 |          2
+ 412 | Italy       | Dortmund       | 2004-07-28 |          1
+ 383 | France      | Berlin         | 2002-11-16 |          2
+ 192 | France      | Paris          | 2005-05-18 |          1
+ 455 | England     | Santa Cruz     | 2006-09-18 |          1
+ 416 | China       | Shanghai       | 2007-07-08 |          1
+ 382 | Australia   | Sydney         | 2003-10-20 |          3
+ 212 | France      | Santa Cruz     | 2000-05-24 |          1
+ 351 | Germany     | Linkoping      | 2003-08-25 |          1
+ 342 | Japan       | Kyoto          | 2001-04-11 |          1
+ 482 | Brazil      | Santa Cruz     | 2008-12-22 |          1
+ 413 | Japan       | Kyoto          | 2007-10-08 |          2
+ 322 | Spain       | Santa Cruz     | 2008-06-21 |          2
+ 222 | China       | Beijing        | 2007-10-23 |          2
+ 450 | Korea       | Cardiff        | 2001-12-23 |          1
+ 170 | China       | Shanghai       | 2004-11-25 |          2
+ 159 | Australia   | Roma           | 2004-03-06 |          1
+ 271 | Spain       | Barcelona      | 2005-04-27 |          1
+ 251 | Uruguay     | Santa Cruz     | 2005-05-03 |          1
+ 299 | Brazil      | Seoul          | 2006-11-11 |          2
+ 172 | Japan       | Nagasaki       | 2003-01-05 |          2
+ 491 | Netherlands | Nagasaki       | 2004-05-08 |          2
+ 282 | Spain       | Barcelona      | 2001-02-21 |          1
+ 236 | Germany     | Linkoping      | 2003-11-03 |          4
+ 138 | England     | Manchester     | 2004-11-04 |          1
+ 419 | Germany     | Perugia        | 2008-05-06 |          1
+ 248 | Netherlands | Amsterdam      | 2000-07-22 |          1
+ 396 | Argentina   | Munich         | 2006-03-02 |          1
+ 406 | Japan       | Kyoto          | 2004-06-12 |          2
+ 443 | Korea       | Busan          | 2001-02-21 |          2
+ 348 | China       | Madrid         | 2002-11-02 |          1
+ 115 | Iran        | Sao Paulo      | 2005-07-24 |          2
+ 430 | Spain       | Madrid         | 2007-08-12 |          1
+ 151 | Germany     | Firenze        | 2002-10-27 |          4
+ 475 | Spain       | Rio de Janiero | 2008-04-20 |          1
+ 213 | Japan       | Busan          | 2004-12-14 |          2
+ 102 | Brazil      | Rio de Janiero | 2001-10-10 |          1
+ 367 | France      | Busan          | 2008-02-23 |          1
+ 402 | Spain       | Tehran         | 2006-09-24 |          2
+ 310 | Korea       | Madrid         | 2007-03-03 |          2
+ 309 | China       | Amsterdam      | 2005-07-09 |          1
+ 321 | Iran        | Tehran         | 2007-10-19 |          2
+ 106 | Japan       | Nagasaki       | 2001-10-10 |          1
+ 333 | France      | Paris          | 2004-12-26 |          1
+ 162 | Korea       | Tabriz         | 2004-11-22 |          2
+ 365 | Iran        | Stockholm      | 2001-03-05 |          1
+ 407 | England     | Busan          | 2001-06-21 |          1
+ 278 | Spain       | Barcelona      | 2003-06-03 |          1
+ 175 | Germany     | Tehran         | 2001-02-22 |          2
+ 431 | Uruguay     | Dortmund       | 2007-07-25 |          1
+ 375 | Japan       | Tokyo          | 2005-04-13 |          2
+ 384 | Germany     | Nagasaki       | 2000-08-12 |          2
+ 110 | Korea       | Seoul          | 2003-04-17 |          2
+ 463 | France      | Madrid         | 2004-08-27 |          2
+ 201 | Netherlands | Amsterdam      | 2002-09-11 |          1
+ 477 | Iran        | Rio de Janiero | 2000-03-24 |          1
+ 245 | Uruguay     | Seoul          | 2001-01-28 |          1
+ 111 | Brazil      | Rio de Janiero | 2007-02-02 |          1
+ 376 | Korea       | Busan          | 2000-03-19 |          1
+ 452 | Germany     | Busan          | 2008-03-06 |          2
+ 428 | Iran        | Tabriz         | 2005-11-13 |          1
+ 286 | Spain       | Madrid         | 2005-10-06 |          1
+ 366 | Germany     | Cardiff        | 2007-11-28 |          2
+ 197 | Netherlands | Marseille      | 2006-03-25 |          2
+ 223 | Iran        | Tehran         | 2006-09-12 |          1
+ 472 | Uruguay     | Kyoto          | 2006-09-09 |          1
+ 356 | France      | Montevideo     | 2007-02-02 |          1
+ 134 | Spain       | Madrid         | 2006-01-17 |          1
+ 208 | England     | Stockholm      | 2001-10-07 |          1
+ 453 | Sweden      | Linkoping      | 2006-09-09 |          2
+ 441 | Spain       | Manchester     | 2004-12-21 |          1
+ 368 | Spain       | Madrid         | 2007-04-22 |          1
+ 359 | Germany     | Lyon           | 2001-07-21 |          2
+ 380 | Japan       | Sao Paulo      | 2006-08-01 |          2
+ 370 | Italy       | Roma           | 2006-09-20 |          1
+ 282 | Japan       | Barcelona      | 2001-02-21 |          1
+ 451 | Japan       | San Carlos     | 2000-03-22 |          1
+ 164 | Iran        | Sydney         | 2008-10-27 |          1
+ 353 | Germany     | Paris          | 2004-12-03 |          2
+ 304 | Argentina   | Berlin         | 2001-05-01 |          2
+ 357 | China       | Shanghai       | 2008-10-17 |          1
+ 104 | Uruguay     | Montevideo     | 2003-05-17 |          2
+ 402 | Iran        | Tehran         | 2006-09-24 |          2
+ 281 | Uruguay     | Marseille      | 2006-11-27 |          2
+ 141 | Germany     | Berlin         | 2007-07-21 |          1
+ 252 | Netherlands | Kyoto          | 2001-09-20 |          1
+ 130 | Australia   | Sydney         | 2001-03-17 |          4
+ 495 | Brazil      | Sao Paulo      | 2001-01-14 |          2
+ 180 | Japan       | Seoul          | 2006-04-07 |          2
+ 400 | France      | Perugia        | 2005-01-17 |          1
+ 374 | Japan       | Kyoto          | 2006-06-14 |          2
+ 330 | Spain       | Nagasaki       | 2002-07-16 |          2
+ 445 | Uruguay     | Busan          | 2005-03-07 |          2
+ 418 | Germany     | Manchester     | 2003-07-01 |          1
+ 351 | Sweden      | Linkoping      | 2003-08-25 |          2
+ 284 | Spain       | Roma           | 2006-06-11 |          2
+ 109 | Brazil      | Sao Paulo      | 2008-11-16 |          1
+ 395 | England     | Cardiff        | 2003-01-24 |          1
+ 148 | Netherlands | Barcelona      | 2004-09-25 |          2
+ 307 | Sweden      | Madrid         | 2004-09-20 |          1
+ 202 | Australia   | Stockholm      | 2001-06-13 |          2
+ 411 | Netherlands | Eindhoven      | 2007-11-27 |          2
+ 136 | Brazil      | Rio de Janiero | 2000-10-01 |          1
+ 367 | Korea       | Busan          | 2008-02-23 |          1
+ 143 | Iran        | Kyoto          | 2008-07-14 |          1
+ 276 | Uruguay     | Montevideo     | 2003-04-01 |          2
+ 154 | Australia   | Kyoto          | 2008-09-10 |          2
+ 461 | Australia   | Lyon           | 2004-03-27 |          1
+ 230 | France      | Lyon           | 2003-02-11 |          2
+ 146 | Australia   | Brisbane       | 2001-09-14 |          2
+ 210 | Uruguay     | Stockholm      | 2003-11-22 |          1
+ 498 | Brazil      | Beijing        | 2000-05-25 |          1
+ 467 | China       | Shanghai       | 2003-03-17 |          2
+ 169 | Uruguay     | Berlin         | 2002-11-08 |          1
+ 422 | England     | San Carlos     | 2002-03-16 |          2
+ 188 | Netherlands | Eindhoven      | 2002-07-15 |          1
+ 350 | England     | Manchester     | 2007-11-26 |          2
+ 264 | Germany     | Berlin         | 2002-04-27 |          2
+ 217 | Sweden      | Linkoping      | 2000-02-08 |          1
+ 110 | England     | Seoul          | 2003-04-17 |          1
+ 103 | Argentina   | Firenze        | 2003-01-25 |          2
+ 256 | Sweden      | Linkoping      | 2008-01-13 |          2
+ 142 | Japan       | Nagasaki       | 2006-09-28 |          4
+ 160 | Italy       | Roma           | 2004-03-18 |          1
+ 393 | Argentina   | Amsterdam      | 2006-08-06 |          3
+ 211 | Sweden      | Sao Paulo      | 2004-06-01 |          1
+ 320 | Italy       | Firenze        | 2008-03-18 |          2
+ 274 | China       | Brisbane       | 2002-12-01 |          2
+ 140 | Uruguay     | Linkoping      | 2007-09-08 |          2
+ 334 | Australia   | Lyon           | 2001-12-14 |          3
+ 212 | Argentina   | Santa Cruz     | 2000-05-24 |          2
+ 318 | Spain       | Barcelona      | 2005-08-07 |          1
+ 144 | Korea       | Busan          | 2005-12-01 |          2
+ 456 | Netherlands | Rio de Janiero | 2006-07-16 |          1
+ 287 | Argentina   | Dortmund       | 2005-03-28 |          1
+ 202 | Sweden      | Stockholm      | 2001-06-13 |          1
+ 173 | Italy       | Seoul          | 2003-06-14 |          2
+ 463 | Spain       | Madrid         | 2004-08-27 |          1
+ 131 | Spain       | Melbourne      | 2000-02-02 |          1
+ 468 | France      | Berlin         | 2003-02-28 |          1
+ 342 | Uruguay     | Kyoto          | 2001-04-11 |          1
+ 232 | Germany     | Munich         | 2004-05-16 |          2
+ 491 | Japan       | Nagasaki       | 2004-05-08 |          2
+ 227 | Germany     | Stockholm      | 2007-11-07 |          2
+ 404 | Germany     | Berlin         | 2002-02-25 |          1
+ 341 | Sweden      | Montevideo     | 2006-02-26 |          2
+ 358 | France      | Tehran         | 2004-02-09 |          2
+ 124 | Korea       | Lyon           | 2003-10-02 |          1
+ 450 | England     | Cardiff        | 2001-12-23 |          1
+ 252 | Japan       | Kyoto          | 2001-09-20 |          2
+ 435 | England     | Eindhoven      | 2006-05-25 |          2
+ 261 | Argentina   | Kyoto          | 2004-10-03 |          3
+ 410 | Sweden      | Sydney         | 2000-05-02 |          2
+ 226 | Korea       | San Carlos     | 2006-06-23 |          1
+ 181 | Germany     | Dortmund       | 2008-08-05 |          1
+ 442 | China       | Shanghai       | 2008-06-14 |          2
+ 392 | Spain       | Beijing        | 2003-05-19 |          1
+ 193 | Korea       | Busan          | 2002-02-07 |          1
+ 430 | Germany     | Madrid         | 2007-08-12 |          1
+ 138 | Japan       | Manchester     | 2004-11-04 |          1
+ 424 | Uruguay     | Montevideo     | 2007-02-05 |          2
+ 499 | Brazil      | Cardiff        | 2004-08-22 |          4
+ 420 | Spain       | Tehran         | 2000-02-21 |          2
+ 441 | England     | Manchester     | 2004-12-21 |          1
+ 336 | Germany     | Tehran         | 2004-10-23 |          2
+ 281 | France      | Marseille      | 2006-11-27 |          1
+ 445 | Korea       | Busan          | 2005-03-07 |          2
+ 403 | Sweden      | Linkoping      | 2007-02-12 |          1
+ 378 | Sweden      | Beijing        | 2001-08-14 |          1
+ 116 | Brazil      | Marseille      | 2000-06-07 |          3
+ 374 | France      | Kyoto          | 2006-06-14 |          2
+ 449 | Sweden      | Linkoping      | 2002-07-01 |          1
+ 448 | Argentina   | Buenos Aires   | 2001-06-15 |          1
+ 266 | Argentina   | Beijing        | 2008-02-24 |          2
+ 399 | Australia   | Lyon           | 2007-01-17 |          1
+ 412 | Germany     | Dortmund       | 2004-07-28 |          2
+ 222 | Argentina   | Beijing        | 2007-10-23 |          2
+ 192 | Spain       | Paris          | 2005-05-18 |          3
+ 313 | Germany     | Dortmund       | 2003-06-08 |          3
+ 273 | Germany     | Seoul          | 2001-10-04 |          4
+ 177 | Japan       | Nagasaki       | 2002-10-06 |          2
+ 112 | Japan       | Melbourne      | 2001-02-09 |          1
+ 155 | China       | Shanghai       | 2005-04-04 |          2
+ 391 | Iran        | Tabriz         | 2004-09-07 |          1
+ 328 | Sweden      | Stockholm      | 2003-12-27 |          1
+ 475 | Brazil      | Rio de Janiero | 2008-04-20 |          2
+ 201 | Korea       | Amsterdam      | 2002-09-11 |          2
+ 413 | Korea       | Kyoto          | 2007-10-08 |          3
+ 345 | Germany     | Munich         | 2001-01-10 |          1
+ 464 | China       | Perugia        | 2008-12-17 |          2
+ 128 | Japan       | Kyoto          | 2008-08-12 |          2
+ 152 | Australia   | Madrid         | 2005-10-16 |          1
+ 238 | France      | Marseille      | 2004-09-18 |          2
+ 397 | Japan       | Firenze        | 2003-05-01 |          2
+ 292 | Sweden      | Stockholm      | 2002-07-11 |          2
+ 409 | France      | Paris          | 2008-07-15 |          2
+ 371 | Germany     | Munich         | 2005-10-20 |          1
+ 439 | Italy       | Roma           | 2008-11-23 |          2
+ 132 | Australia   | Brisbane       | 2001-07-15 |          2
+ 499 | England     | Cardiff        | 2004-08-22 |          1
+ 418 | England     | Manchester     | 2003-07-01 |          2
+ 379 | Japan       | Kyoto          | 2006-11-21 |          1
+ 267 | Netherlands | Barcelona      | 2006-09-13 |          2
+ 239 | England     | San Carlos     | 2000-02-19 |          2
+ 182 | England     | Linkoping      | 2008-03-17 |          2
+ 423 | Brazil      | Sao Paulo      | 2000-08-08 |          1
+ 113 | Korea       | Sao Paulo      | 2004-09-01 |          1
+ 240 | Germany     | Dortmund       | 2002-10-19 |          1
+ 105 | Sweden      | Linkoping      | 2007-02-26 |          3
+ 437 | China       | Shanghai       | 2001-02-08 |          2
+ 326 | Uruguay     | San Carlos     | 2006-12-24 |          2
+ 390 | Uruguay     | Montevideo     | 2003-06-18 |          1
+ 338 | Argentina   | Buenos Aires   | 2000-02-03 |          2
+ 273 | Korea       | Seoul          | 2001-10-04 |          2
+ 121 | Spain       | Eindhoven      | 2004-04-25 |          2
+ 258 | Argentina   | Marseille      | 2001-03-28 |          2
+ 382 | Brazil      | Sydney         | 2003-10-20 |          2
+ 500 | England     | Eindhoven      | 2004-10-11 |          2
+ 444 | Brazil      | Munich         | 2006-02-05 |          2
+ 447 | Argentina   | Sydney         | 2006-02-21 |          1
+ 268 | Iran        | Tehran         | 2007-05-07 |          3
+ 362 | Australia   | Brisbane       | 2008-06-18 |          2
+ 228 | Japan       | Rio de Janiero | 2004-02-19 |          1
+ 103 | Italy       | Firenze        | 2003-01-25 |          1
+ 393 | Netherlands | Amsterdam      | 2006-08-06 |          1
+ 326 | Australia   | San Carlos     | 2006-12-24 |          1
+ 308 | Argentina   | Santa Cruz     | 2002-11-16 |          2
+ 407 | Korea       | Busan          | 2001-06-21 |          2
+ 317 | Brazil      | Busan          | 2003-08-11 |          2
+ 304 | Germany     | Berlin         | 2001-05-01 |          2
+ 148 | Spain       | Barcelona      | 2004-09-25 |          1
+ 301 | Argentina   | Barcelona      | 2002-09-28 |          1
+ 175 | Iran        | Tehran         | 2001-02-22 |          2
+ 471 | Spain       | Madrid         | 2006-08-10 |          1
+ 151 | Italy       | Firenze        | 2002-10-27 |          2
+ 332 | England     | Montevideo     | 2004-12-23 |          2
+ 305 | Uruguay     | San Carlos     | 2007-06-21 |          2
+ 217 | China       | Linkoping      | 2000-02-08 |          2
+ 337 | China       | Rio de Janiero | 2004-07-20 |          3
+ 195 | Argentina   | Marseille      | 2002-12-06 |          1
+ 226 | Uruguay     | San Carlos     | 2006-06-23 |          2
+ 473 | Argentina   | Buenos Aires   | 2007-07-27 |          1
+ 440 | France      | Lyon           | 2004-03-23 |          1
+ 391 | Germany     | Tabriz         | 2004-09-07 |          1
+ 406 | Iran        | Kyoto          | 2004-06-12 |          1
+ 250 | Netherlands | Eindhoven      | 2005-08-19 |          2
+ 199 | Sweden      | Melbourne      | 2008-06-16 |          2
+ 102 | China       | Rio de Janiero | 2001-10-10 |          2
+ 178 | China       | Shanghai       | 2001-05-14 |          1
+ 460 | Netherlands | Eindhoven      | 2000-02-10 |          1
+ 394 | England     | Manchester     | 2005-12-08 |          1
+ 336 | Iran        | Tehran         | 2004-10-23 |          1
+ 230 | Argentina   | Lyon           | 2003-02-11 |          1
+ 436 | China       | Munich         | 2008-02-14 |          2
+ 287 | Germany     | Dortmund       | 2005-03-28 |          2
+ 117 | Sweden      | Tokyo          | 2002-05-05 |          2
+ 470 | Sweden      | Stockholm      | 2004-11-28 |          1
+ 474 | Sweden      | Linkoping      | 2001-02-02 |          1
+ 322 | Argentina   | Santa Cruz     | 2008-06-21 |          2
+ 235 | France      | Santa Cruz     | 2005-10-04 |          2
+ 477 | Brazil      | Rio de Janiero | 2000-03-24 |          1
+ 319 | Australia   | Linkoping      | 2003-01-18 |          2
+ 479 | Sweden      | Linkoping      | 2008-11-06 |          1
+ 469 | Korea       | Seoul          | 2003-02-23 |          2
+ 354 | Uruguay     | Seoul          | 2000-06-01 |          3
+ 379 | Australia   | Kyoto          | 2006-11-21 |          1
+ 347 | Sweden      | Seoul          | 2000-09-05 |          1
+ 298 | Netherlands | Brisbane       | 2000-03-24 |          1
+ 335 | Japan       | San Carlos     | 2004-12-28 |          1
+ 186 | China       | Beijing        | 2000-11-02 |          2
+ 416 | Japan       | Shanghai       | 2007-07-08 |          1
+ 269 | Japan       | Melbourne      | 2006-05-20 |          2
+ 249 | Uruguay     | Montevideo     | 2002-11-19 |          1
+ 335 | Uruguay     | San Carlos     | 2004-12-28 |          1
+ 437 | Brazil      | Shanghai       | 2001-02-08 |          1
+ 290 | France      | Kyoto          | 2003-06-27 |          2
+ 237 | Iran        | Tabriz         | 2003-06-12 |          2
+ 275 | Australia   | Melbourne      | 2003-12-21 |          2
+ 408 | Iran        | Madrid         | 2000-01-02 |          1
+ 385 | Uruguay     | Montevideo     | 2004-09-26 |          1
+ 126 | France      | Paris          | 2006-05-07 |          2
+ 262 | Sweden      | Tokyo          | 2002-02-15 |          1
+ 156 | Netherlands | Sydney         | 2007-05-03 |          1
+ 240 | Argentina   | Dortmund       | 2002-10-19 |          1
+ 353 | France      | Paris          | 2004-12-03 |          1
+ 250 | Iran        | Eindhoven      | 2005-08-19 |          2
+ 298 | Australia   | Brisbane       | 2000-03-24 |          2
+ 112 | Australia   | Melbourne      | 2001-02-09 |          1
+ 399 | France      | Lyon           | 2007-01-17 |          1
+ 415 | China       | Madrid         | 2004-04-12 |          2
+ 161 | Brazil      | Rio de Janiero | 2005-06-25 |          1
+ 315 | China       | Rio de Janiero | 2005-02-28 |          2
+ 268 | Germany     | Tehran         | 2007-05-07 |          1
+ 241 | Korea       | Tabriz         | 2001-12-06 |          1
+ 139 | Uruguay     | Busan          | 2005-06-17 |          2
+ 459 | Spain       | Santa Cruz     | 2000-01-03 |          1
+ 484 | Iran        | Tehran         | 2006-04-16 |          2
+ 197 | France      | Marseille      | 2006-03-25 |          1
+ 302 | Sweden      | Cardiff        | 2000-04-06 |          2
+ 255 | Italy       | San Carlos     | 2006-02-16 |          1
+ 401 | Uruguay     | San Carlos     | 2000-05-11 |          2
+ 392 | China       | Beijing        | 2003-05-19 |          1
+ 129 | Sweden      | Tehran         | 2000-02-03 |          2
+ 145 | Iran        | Brisbane       | 2005-01-06 |          1
+ 484 | Germany     | Tehran         | 2006-04-16 |          1
+ 233 | Netherlands | Eindhoven      | 2002-08-03 |          2
+ 465 | China       | Paris          | 2004-11-27 |          2
+ 422 | Uruguay     | San Carlos     | 2002-03-16 |          2
+ 228 | Brazil      | Rio de Janiero | 2004-02-19 |          1
+ 313 | China       | Dortmund       | 2003-06-08 |          2
+ 229 | Argentina   | Eindhoven      | 2006-12-24 |          2
+ 333 | England     | Paris          | 2004-12-26 |          2
+ 347 | Korea       | Seoul          | 2000-09-05 |          2
+ 260 | Korea       | Seoul          | 2004-12-22 |          1
+ 408 | Spain       | Madrid         | 2000-01-02 |          2
+ 123 | Italy       | Linkoping      | 2005-09-24 |          1
+ 481 | Sweden      | Sao Paulo      | 2007-05-08 |          1
+ 235 | Argentina   | Santa Cruz     | 2005-10-04 |          2
+ 314 | Uruguay     | Madrid         | 2001-06-09 |          2
+ 478 | Argentina   | Beijing        | 2001-05-12 |          1
+ 288 | Sweden      | Stockholm      | 2003-05-06 |          1
+ 331 | Spain       | Eindhoven      | 2008-11-15 |          4
+ 150 | Iran        | Marseille      | 2000-07-15 |          2
+ 316 | Netherlands | Barcelona      | 2006-03-07 |          2
+ 411 | Sweden      | Eindhoven      | 2007-11-27 |          2
+ 341 | Uruguay     | Montevideo     | 2006-02-26 |          1
+ 183 | France      | Lyon           | 2005-06-21 |          1
+ 498 | China       | Beijing        | 2000-05-25 |          1
+ 274 | Australia   | Brisbane       | 2002-12-01 |          2
+ 191 | Netherlands | Amsterdam      | 2004-10-06 |          1
+ 481 | Brazil      | Sao Paulo      | 2007-05-08 |          1
+ 331 | Netherlands | Eindhoven      | 2008-11-15 |          2
+ 461 | France      | Lyon           | 2004-03-27 |          1
+ 315 | Brazil      | Rio de Janiero | 2005-02-28 |          2
+ 181 | Netherlands | Dortmund       | 2008-08-05 |          2
+ 410 | Australia   | Sydney         | 2000-05-02 |          1
+ 285 | Spain       | Seoul          | 2000-01-10 |          1
+ 458 | Iran        | Tabriz         | 2002-06-24 |          1
+ 169 | Germany     | Berlin         | 2002-11-08 |          2
+ 160 | Brazil      | Roma           | 2004-03-18 |          1
+ 434 | Italy       | Cardiff        | 2004-04-03 |          2
+ 447 | Australia   | Sydney         | 2006-02-21 |          1
+ 389 | England     | Paris          | 2002-02-01 |          1
+ 405 | Australia   | Brisbane       | 2005-08-16 |          2
+ 451 | Uruguay     | San Carlos     | 2000-03-22 |          2
+ 480 | Brazil      | Sao Paulo      | 2008-03-12 |          1
+ 189 | Sweden      | Tehran         | 2006-04-03 |          2
+ 248 | Japan       | Amsterdam      | 2000-07-22 |          2
+ 200 | Italy       | Perugia        | 2003-04-05 |          1
+ 381 | Uruguay     | Brisbane       | 2003-08-04 |          1
+ 308 | Australia   | Santa Cruz     | 2002-11-16 |          2
+ 482 | Argentina   | Santa Cruz     | 2008-12-22 |          3
+ 179 | Germany     | Munich         | 2008-05-10 |          1
+ 147 | Spain       | Sao Paulo      | 2003-03-20 |          1
+ 177 | England     | Nagasaki       | 2002-10-06 |          2
+ 153 | Korea       | Eindhoven      | 2008-03-11 |          2
+ 497 | Argentina   | Lyon           | 2003-06-05 |          1
+ 387 | Sweden      | Stockholm      | 2008-09-10 |          1
+ 163 | Argentina   | Santa Cruz     | 2001-05-19 |          3
+ 421 | Spain       | San Carlos     | 2001-10-13 |          2
+ 456 | Brazil      | Rio de Janiero | 2006-07-16 |          1
+ 180 | Korea       | Seoul          | 2006-04-07 |          2
+ 183 | Uruguay     | Lyon           | 2005-06-21 |          3
+ 493 | Italy       | Firenze        | 2007-11-11 |          2
+ 108 | Brazil      | Brisbane       | 2007-07-11 |          1
+ 125 | France      | Dortmund       | 2006-11-03 |          1
+ 323 | Sweden      | Stockholm      | 2000-03-25 |          1
+ 396 | Germany     | Munich         | 2006-03-02 |          1
+ 135 | Italy       | London         | 2001-02-20 |          1
+ 120 | Korea       | Seoul          | 2004-03-06 |          1
+ 140 | Sweden      | Linkoping      | 2007-09-08 |          1
+ 319 | Sweden      | Linkoping      | 2003-01-18 |          1
+ 459 | Argentina   | Santa Cruz     | 2000-01-03 |          1
+ 485 | Brazil      | Shanghai       | 2007-01-18 |          1
+ 327 | China       | Beijing        | 2007-11-09 |          2
+ 296 | Argentina   | Munich         | 2005-02-24 |          1
+ 159 | Italy       | Roma           | 2004-03-06 |          2
+ 119 | China       | Sydney         | 2001-07-23 |          2
+ 332 | Uruguay     | Montevideo     | 2004-12-23 |          1
+ 255 | Uruguay     | San Carlos     | 2006-02-16 |          3
+ 263 | Japan       | Beijing        | 2006-07-18 |          1
+ 185 | Iran        | Cardiff        | 2001-04-25 |          1
+ 323 | Netherlands | Stockholm      | 2000-03-25 |          1
+ 207 | Spain       | Madrid         | 2007-04-09 |          1
+ 257 | England     | Barcelona      | 2001-04-16 |          1
+ 314 | Spain       | Madrid         | 2001-06-09 |          1
+ 297 | Sweden      | Linkoping      | 2008-02-12 |          2
+ 256 | China       | Linkoping      | 2008-01-13 |          1
+ 166 | Netherlands | Eindhoven      | 2000-04-10 |          1
+ 476 | Germany     | Seoul          | 2006-11-02 |          1
+ 293 | Sweden      | Linkoping      | 2000-10-21 |          1
+ 440 | Sweden      | Lyon           | 2004-03-23 |          4
+ 302 | England     | Cardiff        | 2000-04-06 |          2
+ 372 | Iran        | Tabriz         | 2004-03-08 |          1
+ 376 | Spain       | Busan          | 2000-03-19 |          2
+ 166 | Brazil      | Eindhoven      | 2000-04-10 |          2
+ 178 | Japan       | Shanghai       | 2001-05-14 |          1
+ 370 | Argentina   | Roma           | 2006-09-20 |          2
+ 123 | Sweden      | Linkoping      | 2005-09-24 |          1
+ 121 | Netherlands | Eindhoven      | 2004-04-25 |          2
+ 434 | England     | Cardiff        | 2004-04-03 |          1
+ 346 | Japan       | Barcelona      | 2005-02-05 |          1
+ 267 | Spain       | Barcelona      | 2006-09-13 |          1
+ 458 | China       | Tabriz         | 2002-06-24 |          1
+ 363 | Korea       | Santa Cruz     | 2004-11-05 |          2
+ 466 | China       | Shanghai       | 2003-09-12 |          3
+ 133 | Sweden      | Lyon           | 2008-07-03 |          1
+ 265 | Iran        | Marseille      | 2001-01-13 |          1
+ 236 | Sweden      | Linkoping      | 2003-11-03 |          2
+ 210 | Sweden      | Stockholm      | 2003-11-22 |          1
+ 432 | Japan       | Tokyo          | 2003-12-16 |          4
+ 135 | England     | London         | 2001-02-20 |          2
+ 495 | Italy       | Sao Paulo      | 2001-01-14 |          2
+ 372 | Brazil      | Tabriz         | 2004-03-08 |          1
+ 204 | Spain       | Madrid         | 2008-04-16 |          2
+ 214 | Argentina   | Buenos Aires   | 2005-08-19 |          1
+ 449 | Argentina   | Linkoping      | 2002-07-01 |          2
+ 209 | England     | London         | 2003-07-21 |          1
+ 219 | England     | Cardiff        | 2000-05-21 |          1
+ 244 | Argentina   | Amsterdam      | 2004-02-13 |          2
+ 243 | Sweden      | Rio de Janiero | 2004-11-04 |          1
+ 130 | Argentina   | Sydney         | 2001-03-17 |          1
+ 109 | Japan       | Sao Paulo      | 2008-11-16 |          1
+ 425 | Netherlands | Amsterdam      | 2008-06-14 |          2
+ 279 | Iran        | Linkoping      | 2005-02-05 |          2
+ 172 | Korea       | Nagasaki       | 2003-01-05 |          2
+ 229 | Netherlands | Eindhoven      | 2006-12-24 |          2
+ 143 | Japan       | Kyoto          | 2008-07-14 |          1
+ 432 | Korea       | Tokyo          | 2003-12-16 |          1
+ 277 | Japan       | Kyoto          | 2004-05-17 |          1
+ 251 | Argentina   | Santa Cruz     | 2005-05-03 |          1
+ 242 | Italy       | Cardiff        | 2001-12-06 |          1
+ 126 | Argentina   | Paris          | 2006-05-07 |          2
+ 420 | Iran        | Tehran         | 2000-02-21 |          2
+ 343 | Korea       | Busan          | 2003-07-18 |          4
+ 233 | Italy       | Eindhoven      | 2002-08-03 |          2
+ 462 | France      | Paris          | 2002-07-24 |          3
+ 207 | China       | Madrid         | 2007-04-09 |          2
+ 114 | Italy       | Eindhoven      | 2003-06-01 |          2
+ 101 | England     | Cardiff        | 2000-01-07 |          2
+ 426 | Brazil      | Beijing        | 2000-12-20 |          1
+ 176 | Spain       | Santa Cruz     | 2003-07-22 |          2
+ 259 | Brazil      | Kyoto          | 2006-06-25 |          2
+ 436 | Germany     | Munich         | 2008-02-14 |          1
+ 493 | Spain       | Firenze        | 2007-11-11 |          1
+ 485 | China       | Shanghai       | 2007-01-18 |          2
+ 462 | England     | Paris          | 2002-07-24 |          2
+ 464 | Italy       | Perugia        | 2008-12-17 |          1
+ 421 | Uruguay     | San Carlos     | 2001-10-13 |          2
+ 216 | Australia   | Montevideo     | 2008-02-13 |          1
+ 244 | Netherlands | Amsterdam      | 2004-02-13 |          1
+ 218 | China       | Buenos Aires   | 2007-12-08 |          2
+ 190 | Australia   | Brisbane       | 2003-05-02 |          1
+ 289 | China       | Stockholm      | 2002-02-14 |          1
+ 167 | Australia   | Brisbane       | 2004-02-17 |          2
+ 200 | Uruguay     | Perugia        | 2003-04-05 |          2
+ 182 | Sweden      | Linkoping      | 2008-03-17 |          1
+ 253 | Australia   | Melbourne      | 2006-08-08 |          1
+ 118 | Australia   | Manchester     | 2002-07-04 |          2
+ 384 | Japan       | Nagasaki       | 2000-08-12 |          2
+ 453 | Spain       | Linkoping      | 2006-09-09 |          2
+ 386 | England     | Cardiff        | 2007-10-17 |          2
+ 363 | Argentina   | Santa Cruz     | 2004-11-05 |          2
+ 241 | Iran        | Tabriz         | 2001-12-06 |          2
+ 417 | Brazil      | Sao Paulo      | 2006-02-27 |          1
+ 215 | Japan       | Paris          | 2004-04-06 |          2
+ 195 | France      | Marseille      | 2002-12-06 |          2
+ 185 | England     | Cardiff        | 2001-04-25 |          2
+ 373 | England     | Tabriz         | 2000-08-16 |          1
+ 117 | Japan       | Tokyo          | 2002-05-05 |          1
+ 286 | Netherlands | Madrid         | 2005-10-06 |          1
+ 490 | England     | Manchester     | 2005-08-08 |          1
+ 205 | Netherlands | San Carlos     | 2004-12-01 |          1
+ 216 | Uruguay     | Montevideo     | 2008-02-13 |          2
+ 270 | Germany     | Roma           | 2006-09-01 |          2
+ 429 | Uruguay     | Montevideo     | 2002-06-11 |          2
+ 426 | China       | Beijing        | 2000-12-20 |          2
+ 203 | Sweden      | Beijing        | 2001-08-02 |          1
+ 414 | Germany     | Brisbane       | 2005-04-26 |          2
+ 107 | France      | Lyon           | 2007-10-21 |          3
+ 356 | Uruguay     | Montevideo     | 2007-02-02 |          2
+ 312 | Argentina   | Santa Cruz     | 2007-11-03 |          3
+ 276 | China       | Montevideo     | 2003-04-01 |          4
+ 161 | Iran        | Rio de Janiero | 2005-06-25 |          2
+ 139 | Korea       | Busan          | 2005-06-17 |          1
+ 330 | Japan       | Nagasaki       | 2002-07-16 |          2
+ 397 | Italy       | Firenze        | 2003-05-01 |          1
+ 118 | England     | Manchester     | 2002-07-04 |          2
+ 442 | Iran        | Shanghai       | 2008-06-14 |          2
+ 158 | Sweden      | Kyoto          | 2008-07-22 |          2
+ 390 | Japan       | Montevideo     | 2003-06-18 |          2
+ 362 | Korea       | Brisbane       | 2008-06-18 |          2
+ 280 | England     | San Carlos     | 2003-03-26 |          2
+ 500 | Netherlands | Eindhoven      | 2004-10-11 |          2
+ 305 | Italy       | San Carlos     | 2007-06-21 |          2
+ 400 | Italy       | Perugia        | 2005-01-17 |          1
+ 278 | Sweden      | Barcelona      | 2003-06-03 |          1
+ 366 | England     | Cardiff        | 2007-11-28 |          1
+ 224 | Netherlands | Amsterdam      | 2000-08-12 |          2
+ 492 | Korea       | Seoul          | 2000-04-21 |          2
+ 483 | Argentina   | Santa Cruz     | 2003-03-15 |          2
+ 311 | Brazil      | Buenos Aires   | 2008-10-25 |          2
+(566 rows)
+

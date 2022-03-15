@@ -1,0 +1,643 @@
+ beers_id |                         beer                         |                        brewery                         
+----------+------------------------------------------------------+--------------------------------------------------------
+      346 | #100 Hopped Barley Wine                              | Nogne 0 (Hansa Borg)
+      347 | 0.0                                                  | Heineken Brewing
+      348 | 1750 Export Porter                                   | Brouwerij Kees!
+      349 | 2 Solid 2 Gold                                       | Tallboy & Moose Make Beer Pty Ltd
+      350 | 2021 Vintage Ale                                     | Coopers Brewery
+      351 | 30-G                                                 | Hop Nation Brewing Co
+      352 | 40                                                   | Sierra Nevada Brewing Company
+      353 | 4D                                                   | Dainton Brewing
+      354 | 5G                                                   | Mountain Culture Beer Co
+      357 | A Million Stars                                      | Future Mountain Brewing and Blending
+      355 | A Month of Sundaes                                   | Deeds Brewing
+      356 | A Quiet Deed                                         | Deeds Brewing
+      358 | Abstrakt 17                                          | Brewdog
+      359 | Abstrakt 24                                          | Brewdog
+      362 | Acronym Abuse                                        | Badlands Brewery
+      361 | Aecht Schlenkerla Rauchbier Fastenbier               | Brauerei Heller
+      360 | Aecht Schlenkerla Rauchbier Urbock                   | Brauerei Heller
+      363 | After Dinner Stout                                   | Bacchus Brewing Company
+      364 | Age of Aquarius                                      | Garage Project + Modern Times Beer
+      365 | Alexander                                            | Rodenbach Brewery
+      366 | All Together Now                                     | Revision Brewing Company
+      367 | Amarilla Gorilla                                     | Smoge City Brewing Co
+      368 | Amarillo by Morning                                  | Offshoot Beer
+      369 | Amber                                                | Exit Brewing
+      370 | Ambler IPA                                           | Gipsy Hill Brewing
+      371 | Amplifier                                            | Dainton Brewing
+      372 | Anniversary Ale 11                                   | Murrays Brewing Co
+      373 | Anvil of Hope                                        | AleSmith Brewing Co
+      374 | Aphatic                                              | High Water Brewing Inc
+      375 | Apollo After Dark                                    | Hawkers Beer
+      376 | Aro Street                                           | Garage Project + Trillium Brewing Company
+      377 | Arrogant Bastard Ale                                 | Stone Brewing
+      378 | Astrolabe                                            | Frenchies Bistro and Brewery
+      379 | Atticus Atlas                                        | Parish Brewing Co
+      380 | Australian Ale                                       | Shark Island Brewing Company
+      381 | Avalanche                                            | Brick Lane Brewing
+      382 | Aviation Cocktail                                    | Bright Brewery
+      383 | Axe Man                                              | Surly Brewing Co.
+      390 | BBARIS                                               | Mismatch Brewing Company
+      404 | BIPA 13.2 Cascade                                    | Hope Brewery
+      419 | BOS                                                  | Bracket Brewing
+      384 | Back to Cali                                         | Mountain Culture Beer Co
+      385 | Bakery Banana Bread                                  | The Bruery
+      394 | Ball's Falls                                         | Bench Brewing Coompany
+      386 | Banana Pastry Stout                                  | Hop Nation Brewing Co
+      387 | Barley Griffin                                       | Bentspoke Brewing Co
+      388 | Barley Wine                                          | Hawkers Beer
+      389 | Battle of the Lords                                  | Revision Brewing Company
+      391 | Be Kind, Rewind                                      | Mountain Culture Beer Co
+      392 | Beer                                                 | Garage Project
+      393 | Belgian Style Black IPA                              | Sierra Nevada Brewing Company
+      395 | Bentshovel xBa                                       | Bentspoke Brewing Co + Malt Shovel Brewers
+      396 | Berserker                                            | Ekim Brewing Co
+      397 | Betamax                                              | Mountain Culture Beer Co
+      398 | Betelgeuse                                           | Kaiju! Beer
+      400 | Big Jerry                                            | Bacchus Brewing Company
+      401 | Big Nut                                              | Bentspoke Brewing Co
+      402 | Big Sur                                              | Grifter Brewing Co
+      403 | Big'n Juicy NEIPA                                    | Thunder Road Brewing Co
+      399 | Bigfoot                                              | Sierra Nevada Brewing Company
+      405 | Bishop's Best                                        | Matso's Broome Brewery
+      406 | Blacc Pineapple                                      | Bacchus Brewing Company
+      407 | Black Eyed King Imp                                  | Brewdog
+      408 | Black Forest                                         | Dainton Brewing
+      409 | Black Hawk                                           | Black Hops
+      410 | Black Spur Draught                                   | Detour Beer Co
+      411 | Bless the Haze                                       | Moon Dog Craft Brewery
+      412 | Bling Bling                                          | Bridge Road Brewers
+      413 | Bliss                                                | Garage Project
+      414 | Blood Buccaneer                                      | Bacchus Brewing Company
+      415 | Blood Orange Kviek IPA                               | Urbanaut Brewing Co
+      417 | Bloodshot Red IPA                                    | Ekim Brewing Co
+      416 | Blooshot Red IPA                                     | Ekim Brewing Co
+      418 | Blur Vines                                           | Deeds Brewing
+      420 | Botany Bay Lager                                     | One Drop Brewing Co.
+      421 | Bounty Hunter                                        | Dainton Brewing
+      422 | Bourbon County Stout                                 | Goose Island Beer Company
+      423 | Bramble                                              | Bracket Brewing
+      425 | Breakfast Stout                                      | Founders Brewing Company
+      424 | Breakfast at Stepney                                 | Little Bang Brewing Co
+      426 | Breaking Bud                                         | Knee Deep Brewing Co
+      427 | Brekkie Juice                                        | Exit Brewing + Rocky Ridge Brewing
+      429 | Brown                                                | Colonial Brewing Company
+      428 | Brown                                                | Mornington Peninsula Brewery
+      430 | Bubble Farm                                          | Clown Shoes Beer
+      431 | Bug Powder Dust                                      | Garage Project
+      432 | Cabin Fever                                          | Hargreaves Hill Brewing Co
+      433 | California IPA                                       | Sierra Nevada Brewing Company
+      434 | Campfire Stout                                       | High Water Brewing Inc
+      439 | Caramel Fudge Stout                                  | Brouwerij Kees!
+      435 | Caramel Moo-chiato                                   | Heretic Brewing
+      436 | Caribbean Haze                                       | Black Hops
+      437 | Carlton Draught                                      | Carlton and United Breweries
+      440 | Carlton Zero                                         | Carlton and United Breweries
+      441 | Cashmere                                             | Pirate Life Brewing
+      442 | Cashmere Cat                                         | Wayward Brewing Co
+      438 | Cero                                                 | Grupo Modelo - Corona
+      443 | Changing Tides                                       | Sail and Anchor Brewing Co
+      444 | Cheat Code                                           | Deeds Brewing
+      983 | Chimay Grand Reserve                                 | Abbaye de Scourmont - Chimay
+      445 | Chocolate Hazelnut Porter                            | Heretic Brewing
+      446 | Chocolate Stout Nitro                                | Rogue Ales and Spirits
+      447 | Citra Double IPA                                     | Liberty Brewing Company
+      448 | Climate Change is a Burning Issue                    | Sparkke Change Beverage Company
+      449 | Clockwork Tangerine                                  | Brewdog
+      450 | Cloud 9                                              | Akasha Brewing Company
+      451 | Cluster 8                                            | Bentspoke Brewing Co
+      452 | Coast Haste                                          | Rogue Ales and Spirits
+      453 | Colossal Claude                                      | Rogue Ales and Spirits
+      454 | Combat Wombat                                        | Rogue Ales and Spirits
+      455 | Common Ground                                        | White Bay Beer Co
+      456 | Conductor's Special Reserve Porter                   | Deeds Brewing
+      457 | Confetti Cannon                                      | Mountain Culture Beer Co
+      458 | Connected                                            | One Drop Brewing Co.
+      459 | Cosmic Omnibus                                       | AleSmith Brewing Co + Modern Times Beer
+      460 | Cosmic Pyrokinesis                                   | Mother Earth Brew Company
+      461 | Covered in Puppies                                   | Omnipollo + Trillium Brewing Company
+      462 | Crankshaft                                           | Bentspoke Brewing Co
+      463 | Crunkle Sam                                          | Clown Shoes Beer
+      464 | Cut the Red Wire                                     | Deeds Brewing
+      475 | DDH Hi-Res                                           | Sixpoint Brewery
+      476 | DDH Imperial IPA                                     | Frenchies Bistro and Brewery
+      477 | DDH Nebula                                           | Tallboy & Moose Make Beer Pty Ltd
+      465 | Dabble                                               | Sixpoint Brewery
+      466 | Dad Bod                                              | Young Master Hong Kong
+      467 | Dankful                                              | Sierra Nevada Brewing Company
+      468 | Dark Age                                             | Wicked Weed Brewing Co
+      469 | Dark Cherry                                          | One Drop Brewing Co.
+      470 | Dark Chocolate Beer                                  | Garage Project
+      471 | Dark Rum Spiked Porter                               | Ekim Brewing Co
+      472 | Daughters of the Neptune                             | Deeds Brewing + Outer Range Brewing Company
+      473 | Day Trip                                             | Hawkers Beer
+      474 | Daydreaming in Spring                                | Deeds Brewing
+      478 | Deep Cover                                           | Mountain Culture Beer Co
+      484 | Del Mar Pink Grapefruit Hazy IPA                     | Urbanaut Brewing Co
+      479 | Delirium Nocturnum                                   | Brouwerij Huyghe
+      480 | Delirium Red                                         | Brouwerij Huyghe
+      481 | Delirium Tremens                                     | Brouwerij Huyghe
+      482 | Demon Cleaner                                        | Kaiju! Beer
+      483 | Demon Lungs                                          | Grifter Brewing Co
+      485 | Descent19                                            | Bentspoke Brewing Co
+      486 | Descent20                                            | Bentspoke Brewing Co
+      487 | Descent21                                            | Bentspoke Brewing Co
+      488 | Desolation of S'More                                 | Bacchus Brewing Company
+      489 | Dia De Los Muertos                                   | Adroit Theory Brewing Company
+      490 | Diamond Drive                                        | Modern Times Beer
+      491 | Digital Bath                                         | Belching Beaver Brewery
+      492 | Dolce Noir                                           | White Bay Beer Co
+      493 | Dolly                                                | Mountain Culture Beer Co
+      494 | Double Destructor                                    | Woolshed Brewery
+      495 | Double Moonage                                       | Cellarmaker Brewing Co
+      496 | Double Queen                                         | Akasha Brewing Company
+      497 | Double Red IPA                                       | Mountain Culture Beer Co
+      498 | Double Vanilla Custard Pancake                       | One Drop Brewing Co.
+      499 | Double West Coast IPA                                | Hawkers Beer
+      500 | Down The Hill                                        | New England Brewing Co
+      501 | Dramjet                                              | Boatrocker Brewers and Distillers
+      502 | Dream Cake                                           | Moon Dog Craft Brewery + To Ol
+      503 | Dream Weaver                                         | Modus Operandi Brewing Company
+      504 | Dreaming of Oats                                     | Hawkers Beer
+      505 | Dry Haze                                             | Balter Brewing Co + Garage Project
+      506 | Dump the Trump                                       | Chur (Behemoth) Brewing
+      507 | Dust from a distant Sun                              | Sunday Road Brewing Co
+      508 | Dusty Gringo                                         | Deep Creek Brewing
+      509 | East Coast Hazy IPA                                  | Bracket Brewing
+      510 | East Coast IPA                                       | Sydney Brewery
+      511 | Easy As Is Pretty Sweet                              | Garage Project + Modern Times Beer
+      512 | Eclipse IPA                                          | Akasha Brewing Company
+      513 | Eclipse IPA                                          | Bacchus Brewing Company
+      514 | Edward                                               | Van Dieman Brewing
+      515 | El Hefe                                              | Mountain Culture Beer Co
+      516 | El Patrone                                           | Uitlje Brewing Compant
+      517 | Elara                                                | Modern Times Beer
+      518 | Electric Terrain                                     | Modern Times Beer
+      519 | Elsie's Other Udder                                  | Batch Brewing Co
+      520 | Elvis Juice                                          | Brewdog
+      521 | Ember's IPA                                          | Moon Dog Craft Brewery
+      522 | Endless Summer                                       | Brothers Beer
+      523 | Erebus                                               | Big Shed Brewing
+      524 | Ershaffer                                            | Mountain Culture Beer Co
+      525 | Escape from LA                                       | Garage Project + Monkish Brewing Company
+      526 | Escape is Fruitile                                   | AleSmith Brewing Co + Lakewood Brewing Company
+      527 | Evangelion (XVII Tabris)                             | Adroit Theory Brewing Company
+      529 | Even More Coco Jesus                                 | Evil Twin Brewing
+      528 | Even More Jesus                                      | Evil Twin Brewing
+      530 | Everyone's                                           | One Drop Brewing Co.
+      531 | Evolution IPA                                        | The Grizzly Paw Brewing Company
+      532 | Excessive Machine                                    | Garage Project
+      533 | EyePA                                                | Moon Dog Craft Brewery
+      534 | F-11.1% Jet Black IIIPA                              | Hope Brewery
+      535 | F-11.1% Jet Red IIIPA                                | Hope Brewery
+      537 | F/A-18% Black Rhino                                  | Hope Brewery
+      536 | F/A-18% Rhino IIIIIPA                                | Hope Brewery
+      538 | Fanta Pants                                          | Feral Brewing
+      539 | Fantastic Haze                                       | Sierra Nevada Brewing Company
+      540 | Farm Trail Harvest                                   | Sierra Nevada Brewing Company
+      541 | Fat Charmer                                          | Wayward Brewing Co
+      542 | Fat Man, Red Suit, Big Sack                          | Bridge Road Brewers
+      543 | Feelin' Fine                                         | Big Shed Brewing
+      544 | Feels Good Man                                       | Carbon Brews
+      545 | Filthy Dirty IPA                                     | Parallel49 Brewing Company
+      546 | First Blood Orange                                   | Bay Rd Brewing
+      547 | Flemm                                                | Bentspoke Brewing Co
+      548 | Flight Path                                          | Stockade Brew Co
+      549 | Floral IPA                                           | Sierra Nevada Brewing Company
+      550 | Foggy Morning                                        | Wildflower Brewing and Blending
+      551 | Fractal VicSecret/Galaxy                             | Equilibrium Brewery
+      552 | Freedom Unit                                         | Hawkers Beer
+      553 | French Toast                                         | Wicked Weed Brewing Co
+      554 | Fresh                                                | Garage Project
+      555 | Fresh Harvest IPA                                    | Frenchies Bistro and Brewery
+      556 | Frozen Sea                                           | Slow Lane Brewing
+      557 | Fruitopia (#2)                                       | Hargreaves Hill Brewing Co
+      558 | Fudge Dredd                                          | Dainton Brewing
+      559 | Fudge Stout                                          | Beatnik Beer
+      560 | Funkin Nuts                                          | Anderson Valley Brewing Company
+      561 | Furious IPA                                          | Surly Brewing Co.
+      562 | Further thru the Haze                                | Bear Republic Brewing
+      563 | Galactic Space Dragon                                | Odin Brewing Co
+      564 | Galactica                                            | Clown Shoes Beer
+      565 | Galaxy Fart Blaster                                  | West City Brewing
+      566 | Galaxy Valley                                        | Garage Project + Trillium Brewing Company
+      567 | Garden Snake                                         | Mountain Culture Beer Co
+      568 | Genetically Green                                    | Frau Gruber
+      569 | Giblin                                               | Van Dieman Brewing
+      570 | Go Local Sports Team                                 | Chur (Behemoth) Brewing
+      571 | Goblin Warlord                                       | Tallboy & Moose Make Beer Pty Ltd
+      572 | Golden Path                                          | Garage Project
+      573 | Gone Green IIPA                                      | Colonial Brewing Company
+      574 | Good of the Public                                   | Societe Brewing Company
+      575 | Grain Dead                                           | Epic Brewing Company
+      576 | Gran Riserva Rossa                                   | Birra Peroni Industriale
+      577 | Grand Cru                                            | Rodenbach Brewery
+      578 | Green Hills                                          | Shark Island Brewing Company
+      579 | Ground Control                                       | Hop Nation Brewing Co
+      580 | Groundhog Daze                                       | Moon Dog Craft Brewery
+      581 | Gulden Draak 9000 Quadruple                          | Brouwerij Van Steenberge
+      582 | Gulden Draak Imperial Stout                          | Brouwerij Van Steenberge
+      619 | HPA-016                                              | Batch Brewing Co
+      584 | Hangry Donut Hopiscus Wheat                          | Heroes Beer Co
+      583 | Happy Little Tree                                    | Kereru Brewing Co
+      585 | Harry                                                | Mountain Culture Beer Co
+      586 | Haze Cake                                            | Clown Shoes Beer
+      587 | Hazelnut Brown                                       | Bad Shepherd Brewing Co
+      588 | Hazelnut Brown Nectar                                | Rogue Ales and Spirits
+      589 | Hazy                                                 | Balter Brewing Co
+      590 | Hazy IPA                                             | Bracket Brewing
+      591 | Hazy IPA                                             | Hawkers Beer
+      592 | Hazy IPA                                             | Holgate Brewhouse
+      595 | Hazy IPA                                             | Malt Wolf Pty Ltd
+      593 | Hazy IPA                                             | Nogne 0 (Hansa Borg)
+      594 | Hazy IPA                                             | One Drop Brewing Co.
+      597 | Hazy Jane                                            | Brewdog
+      598 | Hazy Life                                            | Revision Brewing Company
+      599 | Hazy Little Thing                                    | Sierra Nevada Brewing Company
+      596 | Hazy Pale                                            | Bracket Brewing
+      600 | Headliner                                            | Otherside Brewing Co
+      984 | Hefeweissbier Dunkel                                 | Bayerische Staatsbrauerei Weihenstephan
+      601 | Hel & Verdoemenis                                    | Brouwerij de Molen
+      602 | High Expectations                                    | Belching Beaver Brewery + Karl Strauss Brewing Company
+      603 | High West Victory at Sea                             | Ballast Point Brewing Co
+      604 | Hill People Milk                                     | Mountain Culture Beer Co
+      605 | Hitachino Nest Red Rice Ale                          | Kiuchi Brewery (Hitachino)
+      606 | Hocus Pocus                                          | Ekim Brewing Co
+      607 | Holey Dollar                                         | Rocks Brewing Co
+      608 | Holmes Brew                                          | Tallboy & Moose Make Beer Pty Ltd
+      609 | Honey Ma Gold                                        | Great Leap Brewing
+      610 | Hop Champagne                                        | Frenchies Bistro and Brewery
+      611 | Hop Hype Eclipse                                     | Blasta Brewing Co
+      612 | Hop Storm                                            | Willie the Boatman
+      613 | Hop Zombie[R]                                        | Epic Brewing Company + Fork & Brewer
+      614 | Hops-in-a-Can                                        | Revision Brewing Company
+      615 | Hot Wax                                              | Mountain Culture Beer Co
+      617 | How's it Gosen?                                      | Bentspoke Brewing Co
+      618 | How's it Gosen? (Cherry)                             | Bentspoke Brewing Co
+      616 | Howler                                               | Darkes Cider
+      620 | Hua Haze                                             | Knee Deep Brewing Co
+      622 | Huge Arker                                           | Anderson Valley Brewing Company
+      621 | Huge Arker                                           | Anderson Valley Brewing Company
+      623 | Hummingbird                                          | Deeds Brewing
+      624 | Hunt for Red Velvet                                  | Prancing Pony Brewery
+      626 | Hypehopopotamus                                      | Mountain Culture Beer Co
+      625 | Hyperborea Hazy                                      | Kaiju! Beer
+      636 | IOU                                                  | Bracket Brewing
+      637 | IPA                                                  | AleSmith Brewing Co
+      638 | IPA                                                  | Detour Beer Co
+      639 | IPA                                                  | Zytho Brewing
+      627 | Idaho Picnic                                         | Lervig Aktiebryggeri
+      628 | Imperial Grapefruit Sour                             | Hope Brewery
+      632 | Imperial IPA                                         | Hawkers Beer
+      640 | Imperial Mango Sour                                  | Hope Brewery
+      641 | Imperial Pink Grapefruit Sour                        | Hope Brewery
+      633 | Imperial Simco Slacker                               | Evil Twin Brewing
+      629 | Imperial Stout                                       | Ekim Brewing Co
+      630 | Imperial Stout                                       | Mountain Goat Beer
+      631 | Imperial Tart Blueberry Sour                         | Hope Brewery
+      642 | India Red Ale                                        | Prancing Pony Brewery
+      634 | India Red Ale                                        | Prancing Pony Brewery
+      635 | Inquest                                              | Colonial Brewing Company
+      643 | Intergalatic Lovechild                               | Deeds Brewing
+      654 | JUNEIPA                                              | Big Shed Brewing
+      644 | Jasmine IPA                                          | Pasteur Street Brewing Co
+      645 | Joose Pary Hazy                                      | Epic Brewing Company
+      646 | Juice Box                                            | Fourpure Brewing Co
+      647 | Juice Junkie Mosaic                                  | Bacchus Brewing Company
+      648 | Juice Stand                                          | AleSmith Brewing Co
+      649 | Juicy Boys                                           | Batch Brewing Co
+      650 | Jumping the Shark 2013                               | Moon Dog Craft Brewery
+      651 | Jumping the Shark 2015                               | Moon Dog Craft Brewery
+      652 | Jumping the Shark 2019                               | Moon Dog Craft Brewery
+      653 | Jumping the Shark 2021                               | Moon Dog Craft Brewery
+      655 | Kamchatka                                            | Frenchies Bistro and Brewery
+      656 | Karaoke Cowboy                                       | HaandBryggeriet
+      657 | Kellogs Corn Flakes                                  | One Drop Brewing Co.
+      658 | Keyboard Warrior                                     | Deeds Brewing
+      659 | King Sue                                             | Toppling Goliath Brewing Co.
+      660 | Kook                                                 | Pizza Port Brewing Company
+      661 | Korben D                                             | Akasha Brewing Company
+      662 | Kurtz's Insane IPA                                   | Heart of Darkness
+      663 | Lager                                                | Balter Brewing Co
+      664 | Lager                                                | Mountain Culture Beer Co
+      665 | Laid Back                                            | Chur (Behemoth) Brewing
+      666 | Lark Barrel-aged Imperial JSP III                    | Wolf of the Willows Brewing Co
+      667 | Lezajsk                                              | Lezajsk Brewery
+      669 | Liquid Cocoa                                         | One Drop Brewing Co.
+      670 | Liquid Lactose                                       | One Drop Brewing Co.
+      668 | Little Tripel                                        | 3 Ravens Brewing Co
+      671 | Lizard's Mouth                                       | Figueroa Mountain Brewing Co
+      672 | Lloyd                                                | Mountain Culture Beer Co
+      673 | London Porter                                        | Bacchus Brewing Company
+      674 | Lordag                                               | HaandBryggeriet
+      675 | Love Tap                                             | Moon Dog Craft Brewery
+      676 | Luna                                                 | Newstead Brewing Company
+      677 | Lunar Eclipse Lager                                  | Sunday Road Brewing Co
+      678 | Luped In IPA                                         | AleSmith Brewing Co
+      679 | Lupulin Effect                                       | Deep Creek Brewing
+      680 | Lupulin Fog                                          | Akasha Brewing Company
+      681 | Lupus The Wolf Man                                   | Garage Project
+      699 | M.I.A.                                               | Bright Brewery
+      717 | MSG                                                  | Mountain Culture Beer Co
+      682 | Magic Carpet Midnight Ride                           | Prancing Pony Brewery
+      683 | Magical Christmas Unicorn                            | Bridge Road Brewers
+      684 | Major Mac                                            | Moon Dog Craft Brewery + Yulli's Brews
+      685 | Mandarina Meine Liebe                                | Hawkers Beer
+      686 | Mango Oat Cream                                      | N.O.M.A.D Brewing
+      688 | Mape Coffee Reserve                                  | Bacchus Brewing Company
+      687 | Maple Banana Split Your Pants                        | Urban Alley Brewery
+      689 | Market Sour Blood Orange and Saltbush                | Colonial Brewing Company
+      690 | Mars Attacks                                         | Mountain Culture Beer Co
+      691 | Matcha IPA                                           | Kizakura Sake Brewing Co. Ltd.
+      693 | Matt                                                 | Hair of the Dog Brewing Company
+      692 | Matured Stout                                        | Billson's Brewery
+      694 | Mega Hornet                                          | Black Hops
+      695 | Mega-Hop                                             | Sauce Brewing Co
+      696 | Melbourne Fog                                        | Hop Nation Brewing Co
+      697 | Mellow Mood                                          | One Drop Brewing Co.
+      698 | Mexican Hot Chcolate Stout                           | Ballistic Beer Company
+      700 | Midwinter                                            | Deeds Brewing
+      701 | Mind Fuzz                                            | Phantom Beer
+      702 | Mind Haze                                            | Firestone Walker Brewing Company
+      703 | Mirror                                               | One Drop Brewing Co.
+      704 | Mirror Universe                                      | Fair Stae Brewing Cooperative
+      705 | Mmmm ... Donuts                                      | Bacchus Brewing Company
+      706 | Mocha Chocolate Ya Ya                                | Electric Bear Brewing Co
+      707 | Monks' Reserve Ale                                   | Spencer Brewery
+      708 | Mooi and Meedogenloos                                | Brouwerij de Molen
+      709 | Moon Dancer                                          | Black Hops
+      710 | Moon Dust Stout                                      | Mountain Culture Beer Co
+      711 | Moralitie                                            | Brasserie Dieu du Ciel!
+      712 | Mosaic                                               | Pirate Life Brewing
+      713 | Mosaic Mango Sour                                    | Urbanaut Brewing Co
+      714 | Motalus                                              | Bacchus Brewing Company
+      715 | Mother of All Storms                                 | Pelican Brewing
+      716 | Mr Fruju                                             | Stockade Brew Co
+      718 | Mudgee Mud                                           | Mudgee Brewing Co
+      720 | My Antonia                                           | Birra del Borgo + Dogfish Head Brewery
+      719 | Mysterio                                             | Stockade Brew Co
+      721 | Myway                                                | Blasta Brewing Co
+      726 | NEeD vol.1                                           | Bridge Road Brewers
+      727 | NEeD vol.2                                           | Bridge Road Brewers
+      722 | Nancy                                                | Mountain Culture Beer Co
+      723 | Narwhal (BA)                                         | Sierra Nevada Brewing Company
+      724 | Natt                                                 | Aegir Bryggeri
+      725 | Nectaron                                             | 4 Pines Brewing Company
+      728 | Neverending Haze                                     | Stone Brewing
+      729 | New Day, New Brew                                    | Bracket Brewing
+      730 | New World IPA                                        | One Drop Brewing Co.
+      731 | Nice Cola                                            | Tallboy & Moose Make Beer Pty Ltd
+      732 | Nitro Magical Christmas Unicorn                      | Bridge Road Brewers
+      733 | No Dreams Til Brooklyn                               | Garage Project + Other Half Brewing
+      734 | Noa (Pecan Mud)                                      | Omnipollo
+      735 | Nooner                                               | Sierra Nevada Brewing Company
+      736 | Nort                                                 | Modus Operandi Brewing Company
+      737 | Not the Most Stable Genius                           | Chur (Behemoth) Brewing
+      738 | Num Num Juice                                        | Mountain Culture Beer Co
+      739 | Nut Brown Ale                                        | Samuel Smiths Brewery
+      759 | ONI                                                  | One Drop Brewing Co.
+      740 | Oaked Guava DIPA                                     | Big Shed Brewing
+      741 | Oakey Dokey Stout                                    | Boatrocker Brewers and Distillers
+      742 | Oat & About                                          | Sauce Brewing Co
+      743 | Oat Cream                                            | Six String Brewing Company
+      744 | Oat Cream India Pale Ale                             | Grassy Knoll Brewing
+      745 | Oatmeal Stout                                        | Ocean Reach Brewing
+      746 | Oatmeal Stout                                        | Sierra Nevada Brewing Company
+      747 | Oceanna                                              | Frenchies Bistro and Brewery
+      748 | October Beer                                         | Boatrocker Brewers and Distillers
+      749 | Off the Wagon Wheel                                  | Bright Brewery
+      750 | Ogden Nash's Pash Rash                               | Moon Dog Craft Brewery
+      751 | Oh-J                                                 | Lone Pine Brewing
+      752 | Oktoberfest                                          | Sierra Nevada Brewing Company
+      753 | Ola Dubh                                             | Harviestoun Brewery
+      754 | Old No 38                                            | Northcoast Brewing Co
+      755 | Old School                                           | Wayward Brewing Co
+      756 | On the Fence                                         | Bracket Brewing
+      757 | Once More into the Fray                              | Deeds Brewing
+      758 | One Draw                                             | One Drop Brewing Co.
+      760 | Onyx Amburana                                        | Brasserie Atrium
+      761 | Orderville                                           | Modern Times Beer
+      762 | Orval                                                | Brasserie d'Orval
+      763 | Outdoor Escape                                       | Pizza Port Brewing Company
+      774 | PC                                                   | Mountain Culture Beer Co
+      764 | Pacific Red Ale                                      | 3 Ravens Brewing Co
+      765 | Pale Ale                                             | Algorithm Brewing
+      766 | Pale Ale                                             | Mountain Culture Beer Co
+      767 | Pale Ale                                             | Prancing Pony Brewery
+      768 | Pale Ale                                             | Sierra Nevada Brewing Company
+      769 | Paradox Heaven Hill                                  | Brewdog
+      771 | Party Crasher                                        | LIC Beer Project
+      770 | Party and Bullshit                                   | Garage Project
+      772 | Passion Victim                                       | Two Birds Brewing
+      773 | Passion Wolf                                         | Golden Road Brewing
+      775 | Peaches and S'Cream                                  | Dainton Brewing
+      776 | Peak Conditions                                      | Stone Brewing
+      777 | Peanut Butter Pastry Stout                           | Hop Nation Brewing Co
+      778 | Peche Mortel                                         | Brasserie Dieu du Ciel!
+      779 | Pernicious Weed                                      | Garage Project
+      780 | Persian Princess                                     | Bacchus Brewing Company
+      781 | Philosophy and Velocity                              | AleSmith Brewing Co + Brewery Ommegang
+      782 | Pilsner                                              | Hawkers Beer
+      783 | Pine Shoot                                           | Austmann Bryggeri
+      784 | Player 1                                             | Epic Brewing Company
+      785 | Player 2                                             | Epic Brewing Company
+      786 | Pompei                                               | Toppling Goliath Brewing Co.
+      787 | Poolside                                             | Modern Times Beer
+      788 | Porter                                               | Colonial Brewing Company
+      789 | Potts Point                                          | Sydney Brewery
+      790 | Private Idaho                                        | Epic Brewing Company
+      791 | Progress                                             | Bracket Brewing
+      792 | Pseudo Sue                                           | Toppling Goliath Brewing Co.
+      793 | Pumpkin Spiced Latte Ale                             | Pirate Life Brewing
+      794 | Punch and Juicy II                                   | Bacchus Brewing Company
+      795 | Punk IPA                                             | Brewdog
+      796 | Pursuit of Hoppiness                                 | Hargreaves Hill Brewing Co
+      797 | Pyrmont                                              | Sydney Brewery
+      798 | Quadzilla                                            | One Drop Brewing Co.
+      799 | Quarantine Dreams                                    | Revision Brewing Company
+      800 | Queen of the Damned                                  | Akasha Brewing Company
+      801 | Racer X                                              | Bear Republic Brewing
+      802 | Radiator                                             | Little Creatures Brewing (Lion/Kirin)
+      803 | Rain Shadow                                          | Buxton Brewery Co
+      804 | Rainbows Are Real                                    | Clown Shoes Beer
+      805 | Ramjet                                               | Boatrocker Brewers and Distillers
+      806 | Red Bellied Black                                    | Bacchus Brewing Company
+      807 | Red IPA                                              | Bulli Brewing Co
+      808 | Red Nut                                              | Bentspoke Brewing Co
+      809 | Red Racer                                            | Central City Brewers
+      881 | Red Racer Super Solar IPA                            | Central City Brewers
+      810 | Red Right Hand                                       | Grand Ridge Brewery
+      811 | Red Rye IPA                                          | Quakers Hat Brewing
+      812 | Red Rye-ot                                           | Willie the Boatman
+      813 | Red Sheet                                            | Hawkers Beer
+      814 | Redliner IIRA                                        | Otherside Brewing Co
+      815 | Reeferendum                                          | Chur (Behemoth) Brewing
+      816 | Refreshing Ale                                       | Stockade Brew Co
+      817 | Revision IPA                                         | Revision Brewing Company
+      818 | Ripple Effect                                        | White Bay Beer Co
+      819 | Road Conan                                           | Chur (Behemoth) Brewing
+      820 | Road Tripper                                         | Little Bang Brewing Co
+      821 | Rock Paper Scissors                                  | Bright Brewery
+      822 | Rodenbach Vintage 2017                               | Rodenbach Brewery
+      823 | Romeo and Juliet                                     | Akasha Brewing Company
+      824 | Route des Epices                                     | Brasserie Dieu du Ciel!
+      825 | Royal Fang                                           | Tallboy & Moose Make Beer Pty Ltd
+      826 | Royal Fresh                                          | Deschutes Brewers
+      827 | Russian Imperial Stout                               | Bracket Brewing
+      828 | Rusted On                                            | White Bay Beer Co
+      829 | S.H.I.T. (Black Damnation 8)                         | De Struise Brouwers
+      858 | S.P.X                                                | Brouwerij Kees!
+      844 | SFO                                                  | Bracket Brewing
+      830 | Sabro IPA                                            | Akasha Brewing Company
+      831 | Sabro IPA                                            | Ballistic Beer Company
+      832 | Saison                                               | Exit Brewing
+      833 | Saison Dupont                                        | Brasserie Dupont
+      834 | Saison Dupont Cuvee Dry Hopping                      | Brasserie Dupont
+      835 | Salted Caramel Brown Ale                             | 3 Ravens Brewing Co
+      836 | Salted Caramel Hazy IIIPA                            | Hope Brewery
+      837 | Scotch Ale                                           | Caledonian Brewery
+      838 | Scrimshaw                                            | Green Beacon Brewing Co
+      839 | Sculpin                                              | Ballast Point Brewing Co
+      840 | Sequoia                                              | Akasha Brewing Company
+      841 | Seven C's                                            | One Drop Brewing Co.
+      843 | Shake Down                                           | Thunder Road Brewing Co
+      842 | Shake and Shimmy                                     | Gigantic Brewing Company
+      845 | Simple Coercion                                      | Slow Lane Brewing
+      846 | Single Hop India Saison                              | New England Brewing Co
+      847 | Sink the Bismarck                                    | Brewdog
+      848 | Six Four Four                                        | Bracket Brewing + Mountain Culture Beer Co
+      849 | Sizpence                                             | One Drop Brewing Co.
+      850 | Slay Ride                                            | Garage Project
+      851 | Smalltowner                                          | New England Brewing Co
+      852 | Snot Block                                           | Tallboy & Moose Make Beer Pty Ltd
+      853 | Snow Wit                                             | Sierra Nevada Brewing Company
+      854 | Softly Spoken Magic Spells                           | Singlecut Beersmiths
+      855 | Sonic Boom                                           | N.O.M.A.D Brewing
+      856 | Sour Brett Ale                                       | Holgate Brewhouse
+      857 | Sour Red                                             | White Rabbit Brewing
+      859 | Space Joose                                          | Epic Brewing Company
+      860 | Spawn of Yaga                                        | Bear Republic Brewing
+      861 | Spectrum                                             | Bracket Brewing
+      862 | Splicer                                              | Stockade Brew Co
+      863 | Sprocket                                             | Bentspoke Brewing Co
+      864 | St Phoebe                                            | Wildflower Brewing and Blending
+      865 | Status Quo                                           | Mountain Culture Beer Co
+      866 | Sticky Date                                          | Bad Shepherd Brewing Co
+      867 | Sticky Icky                                          | Mountain Culture Beer Co
+      868 | Strange Brew                                         | Six String Brewing Company
+      869 | Strata Amarillo                                      | Pirate Life Brewing
+      870 | Stratascope                                          | One Drop Brewing Co.
+      871 | StreetX                                              | Beer Farm
+      872 | Stubborn Russian                                     | Bright Brewery
+      873 | Sundae Beer                                          | Sea Legs Brewing Co
+      874 | Sunny Boy                                            | Hope Brewery
+      875 | Sunny Boy 2.0                                        | Hope Brewery
+      876 | Sunrise Valley                                       | Garage Project + Trillium Brewing Company
+      877 | Sunset Ale                                           | Two Birds Brewing
+      878 | Sunsine & Opportunity                                | Almanac Beer Company
+      879 | Super Ghouls                                         | Offshoot Beer
+      880 | Super Juicy                                          | Hope Brewery
+      882 | Supertrooper                                         | Dainton Brewing
+      883 | Swami's IPA                                          | Pizza Port Brewing Company
+      884 | Swerve City                                          | Belching Beaver Brewery
+      885 | T-3020 IPA                                           | One Drop Brewing Co.
+      886 | Taco Cerveza                                         | Two Birds Brewing
+      887 | Tactical Nuclear Penguin                             | Brewdog
+      888 | Taddy Porter                                         | Samuel Smiths Brewery
+      889 | Talk to the Hand                                     | Garage Project
+      890 | Talus                                                | Akasha Brewing Company
+      891 | Tempest                                              | Deeds Brewing + Outer Range Brewing Company
+      892 | Tequila Queen                                        | Counter Culture Brewing
+      893 | Tesselation                                          | Lone Pine Brewing
+      894 | The Abyss                                            | Deschutes Brewers
+      895 | The Almighty                                         | Bad Shepherd Brewing Co
+      896 | The Big Bad Wolf                                     | One Drop Brewing Co.
+      897 | The Big Kahuna                                       | Batch Brewing Co
+      898 | The Dank                                             | Batch Brewing Co
+      899 | The Dawn                                             | Hop Nation Brewing Co
+      900 | The Detective                                        | CoConspirators Brewing Co
+      901 | The Druid                                            | 3 Ravens Brewing Co
+      902 | The Duke of Chifley                                  | Moon Dog Craft Brewery
+      903 | The Future is Bright                                 | Moon Dog Craft Brewery
+      904 | The Harvest                                          | Bridge Road Brewers
+      905 | The Hop King                                         | One Drop Brewing Co.
+      906 | The Kalash                                           | Hop Nation Brewing Co
+      907 | The Pav is Ours                                      | Moon Dog Craft Brewery
+      908 | The Second Horseman                                  | Deeds Brewing
+      909 | The Toques of Hazzard                                | Parallel49 Brewing Company
+      910 | The Yamburglar                                       | Last Rites Brewing Co
+      911 | This is Foggin Unreal                                | Humble Sea Brewing
+      912 | This is Your Captain Speaking                        | Local Brewing Co
+      913 | Three Philosophers                                   | Brewery Ommegang
+      914 | Thunder Hammer                                       | Tallboy & Moose Make Beer Pty Ltd
+      915 | Tim Tam Slam                                         | Big Shed Brewing
+      916 | Timothy Tamothy Slamothy                             | Moon Dog Craft Brewery
+      917 | To Bee or not to Bee                                 | Sparkke Change Beverage Company
+      918 | Toast                                                | Mountain Culture Beer Co
+      919 | Toasted Marshmallow and Salted Caramel Pecan Mudcake | One Drop Brewing Co.
+      920 | Tonya                                                | Mountain Culture Beer Co
+      921 | Tooheys New                                          | Tooheys Brothers
+      922 | Torpedo                                              | Sierra Nevada Brewing Company
+      924 | Tors Hammar                                          | Aegir Bryggeri
+      923 | Total Eclipse of the Hop                             | Two Birds Brewing
+      925 | Trail Ale                                            | Detour Beer Co
+      926 | Trappist Ale                                         | Spencer Brewery
+      927 | Trappistes Rochefort 10                              | Brasserie de Rochefort
+      928 | Treatise of Light                                    | Sailors Grave Brewing
+      929 | Trinity                                              | Deep Creek Brewing
+      930 | Trinity Porter                                       | Badlands Brewery
+      931 | Triple Crush                                         | Mismatch Brewing Company
+      932 | Trippy Hippy's Voodoo Gold                           | Batch Brewing Co
+      933 | Tropical Brut IPA                                    | Frenchies Bistro and Brewery
+      934 | Twist and Stout                                      | Dainton Brewing
+      935 | Twisted Fate                                         | One Drop Brewing Co.
+      936 | Un Poco Loco                                         | Tallboy & Moose Make Beer Pty Ltd
+      937 | Under the Topical Sun                                | Hawkers Beer
+      938 | Union Jack                                           | Firestone Walker Brewing Company
+      939 | Uptown Craft Lager                                   | Big Drop Brewing Co
+      940 | Ursa Major                                           | Tallboy & Moose Make Beer Pty Ltd
+      941 | Vampyre Lovers                                       | Akasha Brewing Company + Newstead Brewing Company
+      942 | Variations on a Theme IV                             | Boatrocker Brewers and Distillers
+      943 | Victoria Bitter (VB)                                 | Carlton and United Breweries
+      944 | Victory at Sea                                       | Ballast Point Brewing Co
+      945 | Vienneipa                                            | Dainton Brewing
+      946 | Viscosiraptor                                        | Big Shed Brewing
+      947 | Viva La Beaver (BA)                                  | Belching Beaver Brewery
+      948 | Voodoo IPA                                           | Shark Island Brewing Company
+      949 | VoodooRanger                                         | New Belgium Brewing Company
+      950 | Wanderlust                                           | Mountain Culture Beer Co
+      951 | Warning- May Contain Traces of Panther               | Little Bang Brewing Co
+      952 | Wasabi Sumo                                          | Stockade Brew Co
+      953 | Water Buffalo                                        | Akasha Brewing Company
+      954 | Wattleseed Brown Ale                                 | N.O.M.A.D Brewing + Rogue Ales and Spirits
+      955 | Wavelength                                           | Equilibrium Brewery
+      956 | Weaponized                                           | Epic Brewing Company
+      957 | Welcome to the Exterience                            | One Drop Brewing Co.
+      958 | West Coast                                           | Hope Brewery
+      959 | West Coast IPA                                       | Bracket Brewing
+      960 | West Coast IPA                                       | Mr.Banks Brewing Co
+      961 | When You're Strange                                  | Bay Rd Brewing
+      962 | Where Strides the Behemoth                           | Kaiju! Beer
+      963 | Whisky Aged Cider                                    | Willie Smiths Cidery
+      964 | Whisky Barrel Aged Stout                             | Pirate Life Brewing
+      965 | White Mischief                                       | Garage Project
+      966 | Wild Thing Vanilla                                   | Murrays Brewing Co
+      968 | Willy Tonka                                          | Moersleutel Beer Engineers
+      967 | Windjammer                                           | Green Beacon Brewing Co
+      969 | Witch Doctor                                         | Ocean Reach Brewing
+      970 | Wolf Among Weeds                                     | Golden Road Brewing
+      971 | Wooden Leg                                           | Akasha Brewing Company
+      972 | XPA                                                  | Detour Beer Co
+      973 | XS                                                   | Rogue Ales and Spirits
+      974 | XXXX Bitter                                          | Castlemaine Perkins Brewery
+      976 | Yakima Valley                                        | Garage Project + Trillium Brewing Company
+      975 | Yakimanian                                           | One Drop Brewing Co.
+      977 | Yankee Brown IPA                                     | Stockade Brew Co
+      978 | You Can't Handle the Juice                           | Heretic Brewing
+      979 | You had me at Citra                                  | Bacchus Brewing Company
+      980 | Yuzu Lager                                           | Kiuchi Brewery (Hitachino)
+      981 | Zamboni Haze                                         | Moonraker Brewing
+      982 | Zen Garden                                           | Clown Shoes Beer
+(639 rows)
+

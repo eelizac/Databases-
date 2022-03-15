@@ -1,0 +1,31 @@
+   country   | cardtype | count 
+-------------+----------+-------
+ Argentina   | yellow   |     3
+ Australia   | red      |     1
+ Australia   | yellow   |     6
+ Brazil      | red      |     1
+ Brazil      | yellow   |     3
+ China       | red      |     1
+ China       | yellow   |     1
+ England     | red      |     4
+ England     | yellow   |     4
+ France      | yellow   |    12
+ Germany     | red      |     1
+ Germany     | yellow   |     7
+ Iran        | red      |     1
+ Iran        | yellow   |     6
+ Italy       | red      |     2
+ Italy       | yellow   |     3
+ Japan       | red      |     7
+ Japan       | yellow   |     2
+ Korea       | red      |     1
+ Korea       | yellow   |     5
+ Netherlands | yellow   |     4
+ Spain       | red      |     7
+ Spain       | yellow   |     7
+ Sweden      | red      |     1
+ Sweden      | yellow   |     7
+ Uruguay     | red      |     2
+ Uruguay     | yellow   |     8
+(27 rows)
+

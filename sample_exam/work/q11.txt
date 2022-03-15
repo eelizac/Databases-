@@ -1,0 +1,18 @@
+# COMP3311 20T3 Final Exam Q11
+
+(a)
+Functional Dependencies: 
+- --- A -> BC: 
+- A -> B 
+- A -> C 
+- B -> C 
+
+- --- DE -> F 
+----- ADE -> G 
+
+(b)
+
+
+(c) The three attributes with no functional dependencies that violate BCNF are part of solution 
+so 3 tables: ABC, DEF, ADEG 
+

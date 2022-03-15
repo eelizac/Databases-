@@ -1,0 +1,39 @@
+17s1
+COMP2111 System Modelling and Design
+COMP2911 Eng. Design in Computing
+COMP3891 Ext Operating Systems
+SENG2011 Program Reasoning Workshop
+17s2
+COMP3331 Computer Networks&Applications
+COMP6771 Advanced C++ Programming
+MATH2859 Prob, Stats and Information
+SENG2021 Reqts & Design Workshop
+18s1
+COMP3141 Software Sys Des&Implementat'n
+COMP3311 Database Systems
+COMP3821 Ext Algorithms&Prog Techniques
+SENG3011 Software Eng Workshop 3
+18s2
+COMP2041 Software Construction
+COMP3421 Computer Graphics
+COMP9444 Neural Networks, Deep Learning
+GENC3004 Personal Finance
+19T1
+ENGG4902 Engineering Co-op IT 2A
+19T2
+ENGG4903 Engineering Co-op IT 2B
+ENGG4904 Engineering Co-op IT 3A
+19T3
+ENGG4905 Engineering Co-op IT 3B
+20T1
+COMP3131 Programming Languages & Compil
+COMP4951 Research Thesis A
+PHYS1160 Introduction to Astronomy
+20T2
+COMP4952 Research Thesis B
+COMP9319 Web Data Compression & Search
+COMP9332 Network Routing and Switching
+20T3
+COMP4953 Research Thesis C
+COMP9243 Distributed Systems
+SENG4920 Ethics and Management

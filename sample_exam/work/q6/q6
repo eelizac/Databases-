@@ -1,0 +1,60 @@
+#!/usr/bin/python3
+# COMP3311 20T2 Final Exam
+# Q6: print match reports for a specified team in a given year
+# takes name of team and returns table with no. of red and yellow cards against players on team 
+import sys
+import psycopg2
+
+# ... put helper functions here ...
+
+db = None
+cur = None
+
+if len(sys.argv) < 3:
+   print(f"Usage: {sys.argv[0]} TeamName Year")
+   exit(1)
+team = sys.argv[1]
+year = sys.argv[2]
+if not year.isnumeric():
+   print(f"Invalid year {year}")
+   exit(1)
+query_country = "select * from teams where country = %s"
+query = "select id from match_goals_info where playedon < %s-12-31 and playedon > %s-01-01 and a_country = %s order by playedon"
+query1 = "select * from match_goals_info where id = %s"
+try:
+   db = psycopg2.connect("dbname=footy")
+   cur = db.cursor()
+
+   # make sure there is an actual team 
+   cur.execute(query_country, [team])
+   results = cur.fetchone()
+   if results == None: 
+      print("No team" + team)
+      exit(1)
+   
+   # make sure there are some matches 
+   cur.execute(query, [year, team])
+   results = cur.fetchall()
+   if results == None: 
+      print("No matches")
+      exit(1)
+
+   for match in results: 
+      status = "drew"
+      if a_goals > b_goals: 
+         status = "won"
+      elif a_goals < b_goals: 
+         status = "lost"
+      print(f"played {match[2]} in {match[3]} on {match[4]} and {status} {match[5]}-{match[6]}")
+
+   
+
+   # ... your code goes here ...
+except psycopg2.Error as err:
+	print("DB error: ", err)
+finally:
+   if db:
+      db.close()
+   if cur:
+       cur.close()
+       
